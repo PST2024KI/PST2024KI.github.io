@@ -45,17 +45,17 @@
 
 		let button = document.getElementById('submit');
 		button.onclick = async function () {
-		//document.getElementById('text').innerText = document.getElementById('in_monat').value;
+		
 		
 		
 		inputCollection = Array.prototype.map.call(document.getElementById('form').elements, (element) => {return (element.type === 'checkbox') ? element.checked : element.value});
 
 		inputData = {
-  			 Monat: new ort.Tensor('int64', BigInt64Array.from([BigInt(inputCollection[0])]), [1, 1]), // Example float input
+  			 Monat: new ort.Tensor('int64', BigInt64Array.from([BigInt(inputCollection[0])]), [1, 1]),
 			 Wochentag_Num: new ort.Tensor('int64', BigInt64Array.from([BigInt(inputCollection[1])]), [1, 1]),
   			 Feiertag: new ort.Tensor('int64', BigInt64Array.from([inputCollection[2] ? 1n:0n]), [1, 1]),
 			 Ferientag: new ort.Tensor('int64', BigInt64Array.from([inputCollection[3] ? 1n:0n]), [1, 1]),
-			 SHK_TAG: new ort.Tensor('float64', Float64Array.from([parseFloat(inputCollection[4])]), [1, 1]), // Example int64 input
+			 SHK_TAG: new ort.Tensor('float64', Float64Array.from([parseFloat(inputCollection[4])]), [1, 1]),
 			 VPM: new ort.Tensor('float64', Float64Array.from([parseFloat(inputCollection[5])]), [1, 1]),
 			 PM: new ort.Tensor('float64', Float64Array.from([parseFloat(inputCollection[6])]), [1, 1]),
 			 UPM: new ort.Tensor('float64', Float64Array.from([parseFloat(inputCollection[7])]), [1, 1]),
