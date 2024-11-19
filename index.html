@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>KI Website PST 2024</title>
+	</head>
+	<body>
+		<form id="form">
+			<script src="https://cdn.jsdelivr.net/npm/onnxruntime-web/dist/ort.min.js"></script>
+			<label>Monat</label>
+			<input type="number" min=1 max=12 value=1 id="in_monat">
+	
+			<label>Wochentag_Num</label>
+			<input type="number" min=1 max=7 value=1 id="in_tagnum">
+	
+			<label>Feiertag</label>
+			<input type="checkbox" checked="on" id="in_feiertag">
+	
+			<label>Ferientag</label>
+			<input type="checkbox"checked="on" id="in_ferientag">
+	
+			<label>SHK_TAG</label>
+			<input type="number" min=0 max=4 value=0 id="in_shktag">
+	
+			<label>VPM</label>
+			<input type="number" step=0.1 min=2.7 max=22.7 value=2.7 id="in_vpm">
+				
+			<label>PM</label>
+			<input type="number" step=0.01 min=975.63 max=1035.4 value=975.63 id="in_pm">
+			<label>UPM</label>
+			<input type="number" min=36 step=0.01 max=98 value=36 id="in_upm">
+			
+			<label>TXK</label>
+			<input type="number" step=0.01 min=-2.7 max=35.5 value=-2.7 id="in_txk">
+
+			<input type="button" id="submit" label="Submit">
+
+		</form>
+			<p id="text"></p>
+
+		<script>
+		
+		async function main(){
+		const session = await ort.InferenceSession.create('./model2.onnx');
+		
+
+		let button = document.getElementById('submit');
+		button.onclick = async function () {
+		//document.getElementById('text').innerText = document.getElementById('in_monat').value;
+		
+		
+		inputCollection = Array.prototype.map.call(document.getElementById('form').elements, (element) => {return (element.type === 'checkbox') ? element.checked : element.value});
+
+		inputData = {
+  			 Monat: new ort.Tensor('int64', BigInt64Array.from([BigInt(inputCollection[0])]), [1, 1]), // Example float input
+			 Wochentag_Num: new ort.Tensor('int64', BigInt64Array.from([BigInt(inputCollection[1])]), [1, 1]),
+  			 Feiertag: new ort.Tensor('int64', BigInt64Array.from([inputCollection[2] ? 1n:0n]), [1, 1]),
+			 Ferientag: new ort.Tensor('int64', BigInt64Array.from([inputCollection[3] ? 1n:0n]), [1, 1]),
+			 SHK_TAG: new ort.Tensor('float64', Float64Array.from([parseFloat(inputCollection[4])]), [1, 1]), // Example int64 input
+			 VPM: new ort.Tensor('float64', Float64Array.from([parseFloat(inputCollection[5])]), [1, 1]),
+			 PM: new ort.Tensor('float64', Float64Array.from([parseFloat(inputCollection[6])]), [1, 1]),
+			 UPM: new ort.Tensor('float64', Float64Array.from([parseFloat(inputCollection[7])]), [1, 1]),
+			 TXK: new ort.Tensor('float64', Float64Array.from([parseFloat(inputCollection[8])]), [1, 1]),
+			 };
+		
+
+		console.log(inputCollection[0])
+		console.log(inputCollection[2])
+
+		console.log(inputData.Monat)
+		console.log(inputData.Feiertag)
+		let results = await session.run(inputData);
+		
+
+		console.log(results);
+		console.log(Object.keys(results));
+		console.log(results.variable);
+		
+		console.log(Object.keys(results.variable));
+		console.log(results.variable.cpuData);
+				
+
+
+		document.getElementById('text').innerText = results.variable.cpuData[0];
+		};
+
+		
+
+		}
+		
+
+
+		main();
+
+		</script>
+	</body>
+</html>
