@@ -46,12 +46,14 @@
 		</form>
 
 		<p id="text"></p>
+		<p id="text2"></p>
+
 
 		<script>
 		
 
 
-		
+		var UnfGesamt;
 
 
 
@@ -98,8 +100,6 @@
 
 		async function setForm(year,month,day,inputs){
 			
-
-
 			jData = await getData(year.value,month.value,day.value);
 		
 			Object.keys(jData).forEach(function(x){
@@ -110,6 +110,7 @@
 						inputs[x].checked = jData[x] == 1;
 						break;
 					case "UnfGesamt":
+						UnfGesamt = jData[x];
 						break;
 					default:
 						inputs[x].value = jData[x];
@@ -121,34 +122,20 @@
 
 			});
 		}
-			
-
-
-
-
-
-
-
-
-
-
-
-		
-		
-
-
 
 		async function main(){
 		const session = await ort.InferenceSession.create('./model2.onnx');
 		
-
-
+		
+		let realData = true;
 
 		let year = document.getElementById('s_year');
 		let month = document.getElementById('s_month');
 		let day = document.getElementById('s_day');
 
-		inputCollection = document.getElementById('form').elements;
+		let form = document.getElementById('form');
+
+		let inputCollection = form.elements;
 
 		const inputs = {
 			Monat: inputCollection[0],
@@ -180,51 +167,50 @@
 
 		let load = document.getElementById('button');
 		
-		load.onclick = function(){setForm(year,month,day,inputs)};
+		load.onclick = function(){setForm(year,month,day,inputs);realData = true};
 
 
 
 		let button = document.getElementById('submit');
 		button.onclick = async function () {
 		
-		
-		
-		const inputData = {};
-		
-		Object.keys(inputs).forEach(function(x){
+			const inputData = {};
 			
-			var y;
-			switch(x){
-				case "Monat":
-				case "Wochentag_Num":
-					inputData[x] = new ort.Tensor('int64',BigInt64Array.from([BigInt(inputs[x].value)]),[1,1]);
-					break;
-				case "Feiertag":
-				case "Ferientag":
-					inputData[x] = new ort.Tensor('int64',BigInt64Array.from([inputs[x].checked ? 1n:0n]),[1,1]);
-					break;
-				default:
-					inputData[x] = new ort.Tensor('float64',Float64Array.from([parseFloat(inputs[x].value)]),[1,1]);
-					
-		
-
-						
-			}
-		
-		});
-
-
+			Object.keys(inputs).forEach(function(x){
+				
+				var y;
+				switch(x){
+					case "Monat":
+					case "Wochentag_Num":
+						inputData[x] = new ort.Tensor('int64',BigInt64Array.from([BigInt(inputs[x].value)]),[1,1]);
+						break;
+					case "Feiertag":
+					case "Ferientag":
+						inputData[x] = new ort.Tensor('int64',BigInt64Array.from([inputs[x].checked ? 1n:0n]),[1,1]);
+						break;
+					default:
+						inputData[x] = new ort.Tensor('float64',Float64Array.from([parseFloat(inputs[x].value)]),[1,1]);
+				}
+			});
 
 		
-		let results = await session.run(inputData);
-		
+			let results = await session.run(inputData);
 
+			document.getElementById('text').innerText = await results.variable.cpuData[0];
 
-		document.getElementById('text').innerText = await results.variable.cpuData[0];
+			
+			document.getElementById('text2').innerText = realData?UnfGesamt:"";
+			
 		};
 
 		setForm(year,month,day,inputs);
+			
+		form.onchange = function(){
+			realData = false;
+		};
+		
 
+		
 		}
 		
 
