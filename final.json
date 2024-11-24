@@ -1,171 +1,9 @@
 {
   "2022": {
     "9": {
-      "2": [
-        {
-          "Jahr": 2022,
-          "Monat": 9,
-          "Tag": 2,
-          "Wochentag_Num": 5,
-          "Feiertag": 0,
-          "Ferientag": 0,
-          "SHK_TAG": null,
-          "VPM": null,
-          "PM": null,
-          "UPM": null,
-          "TXK": 22.1,
-          "UnfGesamt": 55
-        }
-      ],
-      "3": [
-        {
-          "Jahr": 2022,
-          "Monat": 9,
-          "Tag": 3,
-          "Wochentag_Num": 6,
-          "Feiertag": 0,
-          "Ferientag": 0,
-          "SHK_TAG": null,
-          "VPM": 9.9,
-          "PM": 1012.9,
-          "UPM": 54,
-          "TXK": 22.5,
-          "UnfGesamt": 46
-        }
-      ],
-      "5": [
-        {
-          "Jahr": 2022,
-          "Monat": 9,
-          "Tag": 5,
-          "Wochentag_Num": 1,
-          "Feiertag": 0,
-          "Ferientag": 0,
-          "SHK_TAG": null,
-          "VPM": 11.9,
-          "PM": 1018.6,
-          "UPM": 56,
-          "TXK": 24.1,
-          "UnfGesamt": 61
-        }
-      ],
-      "6": [
-        {
-          "Jahr": 2022,
-          "Monat": 9,
-          "Tag": 6,
-          "Wochentag_Num": 2,
-          "Feiertag": 0,
-          "Ferientag": 0,
-          "SHK_TAG": null,
-          "VPM": 10.9,
-          "PM": 1014.5,
-          "UPM": 52,
-          "TXK": 22.6,
-          "UnfGesamt": 55
-        }
-      ],
-      "7": [
-        {
-          "Jahr": 2022,
-          "Monat": 9,
-          "Tag": 7,
-          "Wochentag_Num": 3,
-          "Feiertag": 0,
-          "Ferientag": 0,
-          "SHK_TAG": null,
-          "VPM": 13.8,
-          "PM": 1008.6,
-          "UPM": 60,
-          "TXK": 25.7,
-          "UnfGesamt": 54
-        }
-      ],
-      "8": [
-        {
-          "Jahr": 2022,
-          "Monat": 9,
-          "Tag": 8,
-          "Wochentag_Num": 4,
-          "Feiertag": 0,
-          "Ferientag": 0,
-          "SHK_TAG": null,
-          "VPM": 14.9,
-          "PM": 1003.8,
-          "UPM": 79,
-          "TXK": 18,
-          "UnfGesamt": 64
-        }
-      ],
-      "10": [
-        {
-          "Jahr": 2022,
-          "Monat": 9,
-          "Tag": 10,
-          "Wochentag_Num": 6,
-          "Feiertag": 0,
-          "Ferientag": 0,
-          "SHK_TAG": null,
-          "VPM": 14.4,
-          "PM": 1006.3,
-          "UPM": 76,
-          "TXK": 21.9,
-          "UnfGesamt": 45
-        }
-      ],
-      "11": [
-        {
-          "Jahr": 2022,
-          "Monat": 9,
-          "Tag": 11,
-          "Wochentag_Num": 7,
-          "Feiertag": 0,
-          "Ferientag": 0,
-          "SHK_TAG": null,
-          "VPM": 14.9,
-          "PM": 1010.2,
-          "UPM": 84,
-          "TXK": 19.7,
-          "UnfGesamt": 25
-        }
-      ],
-      "12": [
-        {
-          "Jahr": 2022,
-          "Monat": 9,
-          "Tag": 12,
-          "Wochentag_Num": 1,
-          "Feiertag": 0,
-          "Ferientag": 0,
-          "SHK_TAG": null,
-          "VPM": null,
-          "PM": 1010.7,
-          "UPM": null,
-          "TXK": 21,
-          "UnfGesamt": 61
-        }
-      ],
-      "13": [
-        {
-          "Jahr": 2022,
-          "Monat": 9,
-          "Tag": 13,
-          "Wochentag_Num": 2,
-          "Feiertag": 0,
-          "Ferientag": 0,
-          "SHK_TAG": null,
-          "VPM": null,
-          "PM": 1003,
-          "UPM": null,
-          "TXK": 20.3,
-          "UnfGesamt": 53
-        }
-      ],
       "15": [
         {
-          "Jahr": 2022,
           "Monat": 9,
-          "Tag": 15,
           "Wochentag_Num": 4,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -177,59 +15,9 @@
           "UnfGesamt": 44
         }
       ],
-      "16": [
-        {
-          "Jahr": 2022,
-          "Monat": 9,
-          "Tag": 16,
-          "Wochentag_Num": 5,
-          "Feiertag": 0,
-          "Ferientag": 0,
-          "SHK_TAG": null,
-          "VPM": 10.5,
-          "PM": 998.3,
-          "UPM": 69,
-          "TXK": 18.3,
-          "UnfGesamt": 52
-        }
-      ],
-      "18": [
-        {
-          "Jahr": 2022,
-          "Monat": 9,
-          "Tag": 18,
-          "Wochentag_Num": 7,
-          "Feiertag": 0,
-          "Ferientag": 0,
-          "SHK_TAG": null,
-          "VPM": 10.5,
-          "PM": 1000.8,
-          "UPM": 81,
-          "TXK": 14.7,
-          "UnfGesamt": 28
-        }
-      ],
-      "19": [
-        {
-          "Jahr": 2022,
-          "Monat": 9,
-          "Tag": 19,
-          "Wochentag_Num": 1,
-          "Feiertag": 0,
-          "Ferientag": 0,
-          "SHK_TAG": null,
-          "VPM": 11.4,
-          "PM": 1006.1,
-          "UPM": 88,
-          "TXK": 16.1,
-          "UnfGesamt": 59
-        }
-      ],
       "21": [
         {
-          "Jahr": 2022,
           "Monat": 9,
-          "Tag": 21,
           "Wochentag_Num": 3,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -243,9 +31,7 @@
       ],
       "22": [
         {
-          "Jahr": 2022,
           "Monat": 9,
-          "Tag": 22,
           "Wochentag_Num": 4,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -259,9 +45,7 @@
       ],
       "23": [
         {
-          "Jahr": 2022,
           "Monat": 9,
-          "Tag": 23,
           "Wochentag_Num": 5,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -275,9 +59,7 @@
       ],
       "25": [
         {
-          "Jahr": 2022,
           "Monat": 9,
-          "Tag": 25,
           "Wochentag_Num": 7,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -291,9 +73,7 @@
       ],
       "26": [
         {
-          "Jahr": 2022,
           "Monat": 9,
-          "Tag": 26,
           "Wochentag_Num": 1,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -307,9 +87,7 @@
       ],
       "27": [
         {
-          "Jahr": 2022,
           "Monat": 9,
-          "Tag": 27,
           "Wochentag_Num": 2,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -323,9 +101,7 @@
       ],
       "28": [
         {
-          "Jahr": 2022,
           "Monat": 9,
-          "Tag": 28,
           "Wochentag_Num": 3,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -339,9 +115,7 @@
       ],
       "29": [
         {
-          "Jahr": 2022,
           "Monat": 9,
-          "Tag": 29,
           "Wochentag_Num": 4,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -355,9 +129,7 @@
       ],
       "30": [
         {
-          "Jahr": 2022,
           "Monat": 9,
-          "Tag": 30,
           "Wochentag_Num": 5,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -373,9 +145,7 @@
     "10": {
       "1": [
         {
-          "Jahr": 2022,
           "Monat": 10,
-          "Tag": 1,
           "Wochentag_Num": 6,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -389,9 +159,7 @@
       ],
       "2": [
         {
-          "Jahr": 2022,
           "Monat": 10,
-          "Tag": 2,
           "Wochentag_Num": 7,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -405,9 +173,7 @@
       ],
       "3": [
         {
-          "Jahr": 2022,
           "Monat": 10,
-          "Tag": 3,
           "Wochentag_Num": 1,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -421,9 +187,7 @@
       ],
       "4": [
         {
-          "Jahr": 2022,
           "Monat": 10,
-          "Tag": 4,
           "Wochentag_Num": 2,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -437,9 +201,7 @@
       ],
       "5": [
         {
-          "Jahr": 2022,
           "Monat": 10,
-          "Tag": 5,
           "Wochentag_Num": 3,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -453,9 +215,7 @@
       ],
       "7": [
         {
-          "Jahr": 2022,
           "Monat": 10,
-          "Tag": 7,
           "Wochentag_Num": 5,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -469,9 +229,7 @@
       ],
       "8": [
         {
-          "Jahr": 2022,
           "Monat": 10,
-          "Tag": 8,
           "Wochentag_Num": 6,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -485,9 +243,7 @@
       ],
       "9": [
         {
-          "Jahr": 2022,
           "Monat": 10,
-          "Tag": 9,
           "Wochentag_Num": 7,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -501,9 +257,7 @@
       ],
       "10": [
         {
-          "Jahr": 2022,
           "Monat": 10,
-          "Tag": 10,
           "Wochentag_Num": 1,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -517,9 +271,7 @@
       ],
       "13": [
         {
-          "Jahr": 2022,
           "Monat": 10,
-          "Tag": 13,
           "Wochentag_Num": 4,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -533,9 +285,7 @@
       ],
       "14": [
         {
-          "Jahr": 2022,
           "Monat": 10,
-          "Tag": 14,
           "Wochentag_Num": 5,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -549,9 +299,7 @@
       ],
       "15": [
         {
-          "Jahr": 2022,
           "Monat": 10,
-          "Tag": 15,
           "Wochentag_Num": 6,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -565,9 +313,7 @@
       ],
       "16": [
         {
-          "Jahr": 2022,
           "Monat": 10,
-          "Tag": 16,
           "Wochentag_Num": 7,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -581,9 +327,7 @@
       ],
       "17": [
         {
-          "Jahr": 2022,
           "Monat": 10,
-          "Tag": 17,
           "Wochentag_Num": 1,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -597,9 +341,7 @@
       ],
       "19": [
         {
-          "Jahr": 2022,
           "Monat": 10,
-          "Tag": 19,
           "Wochentag_Num": 3,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -613,9 +355,7 @@
       ],
       "20": [
         {
-          "Jahr": 2022,
           "Monat": 10,
-          "Tag": 20,
           "Wochentag_Num": 4,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -629,9 +369,7 @@
       ],
       "22": [
         {
-          "Jahr": 2022,
           "Monat": 10,
-          "Tag": 22,
           "Wochentag_Num": 6,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -645,9 +383,7 @@
       ],
       "23": [
         {
-          "Jahr": 2022,
           "Monat": 10,
-          "Tag": 23,
           "Wochentag_Num": 7,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -661,9 +397,7 @@
       ],
       "24": [
         {
-          "Jahr": 2022,
           "Monat": 10,
-          "Tag": 24,
           "Wochentag_Num": 1,
           "Feiertag": 0,
           "Ferientag": 1,
@@ -677,9 +411,7 @@
       ],
       "25": [
         {
-          "Jahr": 2022,
           "Monat": 10,
-          "Tag": 25,
           "Wochentag_Num": 2,
           "Feiertag": 0,
           "Ferientag": 1,
@@ -693,9 +425,7 @@
       ],
       "26": [
         {
-          "Jahr": 2022,
           "Monat": 10,
-          "Tag": 26,
           "Wochentag_Num": 3,
           "Feiertag": 0,
           "Ferientag": 1,
@@ -709,9 +439,7 @@
       ],
       "29": [
         {
-          "Jahr": 2022,
           "Monat": 10,
-          "Tag": 29,
           "Wochentag_Num": 6,
           "Feiertag": 0,
           "Ferientag": 1,
@@ -727,9 +455,7 @@
     "11": {
       "2": [
         {
-          "Jahr": 2022,
           "Monat": 11,
-          "Tag": 2,
           "Wochentag_Num": 3,
           "Feiertag": 0,
           "Ferientag": 1,
@@ -743,9 +469,7 @@
       ],
       "3": [
         {
-          "Jahr": 2022,
           "Monat": 11,
-          "Tag": 3,
           "Wochentag_Num": 4,
           "Feiertag": 0,
           "Ferientag": 1,
@@ -759,9 +483,7 @@
       ],
       "4": [
         {
-          "Jahr": 2022,
           "Monat": 11,
-          "Tag": 4,
           "Wochentag_Num": 5,
           "Feiertag": 0,
           "Ferientag": 1,
@@ -775,9 +497,7 @@
       ],
       "7": [
         {
-          "Jahr": 2022,
           "Monat": 11,
-          "Tag": 7,
           "Wochentag_Num": 1,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -791,9 +511,7 @@
       ],
       "10": [
         {
-          "Jahr": 2022,
           "Monat": 11,
-          "Tag": 10,
           "Wochentag_Num": 4,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -807,9 +525,7 @@
       ],
       "11": [
         {
-          "Jahr": 2022,
           "Monat": 11,
-          "Tag": 11,
           "Wochentag_Num": 5,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -823,9 +539,7 @@
       ],
       "12": [
         {
-          "Jahr": 2022,
           "Monat": 11,
-          "Tag": 12,
           "Wochentag_Num": 6,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -839,9 +553,7 @@
       ],
       "13": [
         {
-          "Jahr": 2022,
           "Monat": 11,
-          "Tag": 13,
           "Wochentag_Num": 7,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -855,9 +567,7 @@
       ],
       "15": [
         {
-          "Jahr": 2022,
           "Monat": 11,
-          "Tag": 15,
           "Wochentag_Num": 2,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -871,9 +581,7 @@
       ],
       "16": [
         {
-          "Jahr": 2022,
           "Monat": 11,
-          "Tag": 16,
           "Wochentag_Num": 3,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -887,9 +595,7 @@
       ],
       "17": [
         {
-          "Jahr": 2022,
           "Monat": 11,
-          "Tag": 17,
           "Wochentag_Num": 4,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -903,9 +609,7 @@
       ],
       "18": [
         {
-          "Jahr": 2022,
           "Monat": 11,
-          "Tag": 18,
           "Wochentag_Num": 5,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -919,9 +623,7 @@
       ],
       "19": [
         {
-          "Jahr": 2022,
           "Monat": 11,
-          "Tag": 19,
           "Wochentag_Num": 6,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -935,9 +637,7 @@
       ],
       "20": [
         {
-          "Jahr": 2022,
           "Monat": 11,
-          "Tag": 20,
           "Wochentag_Num": 7,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -951,9 +651,7 @@
       ],
       "22": [
         {
-          "Jahr": 2022,
           "Monat": 11,
-          "Tag": 22,
           "Wochentag_Num": 2,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -967,9 +665,7 @@
       ],
       "23": [
         {
-          "Jahr": 2022,
           "Monat": 11,
-          "Tag": 23,
           "Wochentag_Num": 3,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -983,9 +679,7 @@
       ],
       "26": [
         {
-          "Jahr": 2022,
           "Monat": 11,
-          "Tag": 26,
           "Wochentag_Num": 6,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -999,9 +693,7 @@
       ],
       "27": [
         {
-          "Jahr": 2022,
           "Monat": 11,
-          "Tag": 27,
           "Wochentag_Num": 7,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -1015,9 +707,7 @@
       ],
       "28": [
         {
-          "Jahr": 2022,
           "Monat": 11,
-          "Tag": 28,
           "Wochentag_Num": 1,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -1031,9 +721,7 @@
       ],
       "29": [
         {
-          "Jahr": 2022,
           "Monat": 11,
-          "Tag": 29,
           "Wochentag_Num": 2,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -1047,9 +735,7 @@
       ],
       "30": [
         {
-          "Jahr": 2022,
           "Monat": 11,
-          "Tag": 30,
           "Wochentag_Num": 3,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -1065,9 +751,7 @@
     "12": {
       "1": [
         {
-          "Jahr": 2022,
           "Monat": 12,
-          "Tag": 1,
           "Wochentag_Num": 4,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -1081,9 +765,7 @@
       ],
       "3": [
         {
-          "Jahr": 2022,
           "Monat": 12,
-          "Tag": 3,
           "Wochentag_Num": 6,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -1097,9 +779,7 @@
       ],
       "4": [
         {
-          "Jahr": 2022,
           "Monat": 12,
-          "Tag": 4,
           "Wochentag_Num": 7,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -1113,9 +793,7 @@
       ],
       "5": [
         {
-          "Jahr": 2022,
           "Monat": 12,
-          "Tag": 5,
           "Wochentag_Num": 1,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -1129,9 +807,7 @@
       ],
       "6": [
         {
-          "Jahr": 2022,
           "Monat": 12,
-          "Tag": 6,
           "Wochentag_Num": 2,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -1145,9 +821,7 @@
       ],
       "7": [
         {
-          "Jahr": 2022,
           "Monat": 12,
-          "Tag": 7,
           "Wochentag_Num": 3,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -1161,9 +835,7 @@
       ],
       "8": [
         {
-          "Jahr": 2022,
           "Monat": 12,
-          "Tag": 8,
           "Wochentag_Num": 4,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -1177,9 +849,7 @@
       ],
       "9": [
         {
-          "Jahr": 2022,
           "Monat": 12,
-          "Tag": 9,
           "Wochentag_Num": 5,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -1193,9 +863,7 @@
       ],
       "10": [
         {
-          "Jahr": 2022,
           "Monat": 12,
-          "Tag": 10,
           "Wochentag_Num": 6,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -1209,9 +877,7 @@
       ],
       "12": [
         {
-          "Jahr": 2022,
           "Monat": 12,
-          "Tag": 12,
           "Wochentag_Num": 1,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -1225,9 +891,7 @@
       ],
       "13": [
         {
-          "Jahr": 2022,
           "Monat": 12,
-          "Tag": 13,
           "Wochentag_Num": 2,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -1241,9 +905,7 @@
       ],
       "15": [
         {
-          "Jahr": 2022,
           "Monat": 12,
-          "Tag": 15,
           "Wochentag_Num": 4,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -1257,9 +919,7 @@
       ],
       "16": [
         {
-          "Jahr": 2022,
           "Monat": 12,
-          "Tag": 16,
           "Wochentag_Num": 5,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -1273,9 +933,7 @@
       ],
       "17": [
         {
-          "Jahr": 2022,
           "Monat": 12,
-          "Tag": 17,
           "Wochentag_Num": 6,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -1289,9 +947,7 @@
       ],
       "19": [
         {
-          "Jahr": 2022,
           "Monat": 12,
-          "Tag": 19,
           "Wochentag_Num": 1,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -1305,9 +961,7 @@
       ],
       "20": [
         {
-          "Jahr": 2022,
           "Monat": 12,
-          "Tag": 20,
           "Wochentag_Num": 2,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -1321,9 +975,7 @@
       ],
       "22": [
         {
-          "Jahr": 2022,
           "Monat": 12,
-          "Tag": 22,
           "Wochentag_Num": 4,
           "Feiertag": 0,
           "Ferientag": 1,
@@ -1337,9 +989,7 @@
       ],
       "23": [
         {
-          "Jahr": 2022,
           "Monat": 12,
-          "Tag": 23,
           "Wochentag_Num": 5,
           "Feiertag": 0,
           "Ferientag": 1,
@@ -1353,9 +1003,7 @@
       ],
       "24": [
         {
-          "Jahr": 2022,
           "Monat": 12,
-          "Tag": 24,
           "Wochentag_Num": 6,
           "Feiertag": 0,
           "Ferientag": 1,
@@ -1369,9 +1017,7 @@
       ],
       "25": [
         {
-          "Jahr": 2022,
           "Monat": 12,
-          "Tag": 25,
           "Wochentag_Num": 7,
           "Feiertag": 1,
           "Ferientag": 1,
@@ -1385,9 +1031,7 @@
       ],
       "26": [
         {
-          "Jahr": 2022,
           "Monat": 12,
-          "Tag": 26,
           "Wochentag_Num": 1,
           "Feiertag": 1,
           "Ferientag": 1,
@@ -1401,9 +1045,7 @@
       ],
       "28": [
         {
-          "Jahr": 2022,
           "Monat": 12,
-          "Tag": 28,
           "Wochentag_Num": 3,
           "Feiertag": 0,
           "Ferientag": 1,
@@ -1417,9 +1059,7 @@
       ],
       "29": [
         {
-          "Jahr": 2022,
           "Monat": 12,
-          "Tag": 29,
           "Wochentag_Num": 4,
           "Feiertag": 0,
           "Ferientag": 1,
@@ -1433,9 +1073,7 @@
       ],
       "31": [
         {
-          "Jahr": 2022,
           "Monat": 12,
-          "Tag": 31,
           "Wochentag_Num": 6,
           "Feiertag": 0,
           "Ferientag": 1,
@@ -1453,9 +1091,7 @@
     "1": {
       "1": [
         {
-          "Jahr": 2023,
           "Monat": 1,
-          "Tag": 1,
           "Wochentag_Num": 7,
           "Feiertag": 1,
           "Ferientag": 1,
@@ -1469,9 +1105,7 @@
       ],
       "2": [
         {
-          "Jahr": 2023,
           "Monat": 1,
-          "Tag": 2,
           "Wochentag_Num": 1,
           "Feiertag": 0,
           "Ferientag": 1,
@@ -1485,9 +1119,7 @@
       ],
       "3": [
         {
-          "Jahr": 2023,
           "Monat": 1,
-          "Tag": 3,
           "Wochentag_Num": 2,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -1501,9 +1133,7 @@
       ],
       "4": [
         {
-          "Jahr": 2023,
           "Monat": 1,
-          "Tag": 4,
           "Wochentag_Num": 3,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -1517,9 +1147,7 @@
       ],
       "5": [
         {
-          "Jahr": 2023,
           "Monat": 1,
-          "Tag": 5,
           "Wochentag_Num": 4,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -1533,9 +1161,7 @@
       ],
       "6": [
         {
-          "Jahr": 2023,
           "Monat": 1,
-          "Tag": 6,
           "Wochentag_Num": 5,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -1549,9 +1175,7 @@
       ],
       "7": [
         {
-          "Jahr": 2023,
           "Monat": 1,
-          "Tag": 7,
           "Wochentag_Num": 6,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -1565,9 +1189,7 @@
       ],
       "8": [
         {
-          "Jahr": 2023,
           "Monat": 1,
-          "Tag": 8,
           "Wochentag_Num": 7,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -1581,9 +1203,7 @@
       ],
       "9": [
         {
-          "Jahr": 2023,
           "Monat": 1,
-          "Tag": 9,
           "Wochentag_Num": 1,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -1597,9 +1217,7 @@
       ],
       "10": [
         {
-          "Jahr": 2023,
           "Monat": 1,
-          "Tag": 10,
           "Wochentag_Num": 2,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -1613,9 +1231,7 @@
       ],
       "12": [
         {
-          "Jahr": 2023,
           "Monat": 1,
-          "Tag": 12,
           "Wochentag_Num": 4,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -1629,9 +1245,7 @@
       ],
       "14": [
         {
-          "Jahr": 2023,
           "Monat": 1,
-          "Tag": 14,
           "Wochentag_Num": 6,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -1645,9 +1259,7 @@
       ],
       "15": [
         {
-          "Jahr": 2023,
           "Monat": 1,
-          "Tag": 15,
           "Wochentag_Num": 7,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -1661,9 +1273,7 @@
       ],
       "16": [
         {
-          "Jahr": 2023,
           "Monat": 1,
-          "Tag": 16,
           "Wochentag_Num": 1,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -1677,9 +1287,7 @@
       ],
       "17": [
         {
-          "Jahr": 2023,
           "Monat": 1,
-          "Tag": 17,
           "Wochentag_Num": 2,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -1693,9 +1301,7 @@
       ],
       "18": [
         {
-          "Jahr": 2023,
           "Monat": 1,
-          "Tag": 18,
           "Wochentag_Num": 3,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -1709,9 +1315,7 @@
       ],
       "19": [
         {
-          "Jahr": 2023,
           "Monat": 1,
-          "Tag": 19,
           "Wochentag_Num": 4,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -1725,9 +1329,7 @@
       ],
       "20": [
         {
-          "Jahr": 2023,
           "Monat": 1,
-          "Tag": 20,
           "Wochentag_Num": 5,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -1741,9 +1343,7 @@
       ],
       "21": [
         {
-          "Jahr": 2023,
           "Monat": 1,
-          "Tag": 21,
           "Wochentag_Num": 6,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -1757,9 +1357,7 @@
       ],
       "22": [
         {
-          "Jahr": 2023,
           "Monat": 1,
-          "Tag": 22,
           "Wochentag_Num": 7,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -1773,9 +1371,7 @@
       ],
       "23": [
         {
-          "Jahr": 2023,
           "Monat": 1,
-          "Tag": 23,
           "Wochentag_Num": 1,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -1789,9 +1385,7 @@
       ],
       "24": [
         {
-          "Jahr": 2023,
           "Monat": 1,
-          "Tag": 24,
           "Wochentag_Num": 2,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -1805,9 +1399,7 @@
       ],
       "25": [
         {
-          "Jahr": 2023,
           "Monat": 1,
-          "Tag": 25,
           "Wochentag_Num": 3,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -1821,9 +1413,7 @@
       ],
       "26": [
         {
-          "Jahr": 2023,
           "Monat": 1,
-          "Tag": 26,
           "Wochentag_Num": 4,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -1837,9 +1427,7 @@
       ],
       "28": [
         {
-          "Jahr": 2023,
           "Monat": 1,
-          "Tag": 28,
           "Wochentag_Num": 6,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -1853,9 +1441,7 @@
       ],
       "29": [
         {
-          "Jahr": 2023,
           "Monat": 1,
-          "Tag": 29,
           "Wochentag_Num": 7,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -1869,9 +1455,7 @@
       ],
       "30": [
         {
-          "Jahr": 2023,
           "Monat": 1,
-          "Tag": 30,
           "Wochentag_Num": 1,
           "Feiertag": 0,
           "Ferientag": 1,
@@ -1885,9 +1469,7 @@
       ],
       "31": [
         {
-          "Jahr": 2023,
           "Monat": 1,
-          "Tag": 31,
           "Wochentag_Num": 2,
           "Feiertag": 0,
           "Ferientag": 1,
@@ -1903,9 +1485,7 @@
     "2": {
       "1": [
         {
-          "Jahr": 2023,
           "Monat": 2,
-          "Tag": 1,
           "Wochentag_Num": 3,
           "Feiertag": 0,
           "Ferientag": 1,
@@ -1919,9 +1499,7 @@
       ],
       "3": [
         {
-          "Jahr": 2023,
           "Monat": 2,
-          "Tag": 3,
           "Wochentag_Num": 5,
           "Feiertag": 0,
           "Ferientag": 1,
@@ -1935,9 +1513,7 @@
       ],
       "4": [
         {
-          "Jahr": 2023,
           "Monat": 2,
-          "Tag": 4,
           "Wochentag_Num": 6,
           "Feiertag": 0,
           "Ferientag": 1,
@@ -1951,9 +1527,7 @@
       ],
       "5": [
         {
-          "Jahr": 2023,
           "Monat": 2,
-          "Tag": 5,
           "Wochentag_Num": 7,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -1967,9 +1541,7 @@
       ],
       "6": [
         {
-          "Jahr": 2023,
           "Monat": 2,
-          "Tag": 6,
           "Wochentag_Num": 1,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -1983,9 +1555,7 @@
       ],
       "8": [
         {
-          "Jahr": 2023,
           "Monat": 2,
-          "Tag": 8,
           "Wochentag_Num": 3,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -1999,9 +1569,7 @@
       ],
       "10": [
         {
-          "Jahr": 2023,
           "Monat": 2,
-          "Tag": 10,
           "Wochentag_Num": 5,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -2015,9 +1583,7 @@
       ],
       "11": [
         {
-          "Jahr": 2023,
           "Monat": 2,
-          "Tag": 11,
           "Wochentag_Num": 6,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -2031,9 +1597,7 @@
       ],
       "12": [
         {
-          "Jahr": 2023,
           "Monat": 2,
-          "Tag": 12,
           "Wochentag_Num": 7,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -2047,9 +1611,7 @@
       ],
       "13": [
         {
-          "Jahr": 2023,
           "Monat": 2,
-          "Tag": 13,
           "Wochentag_Num": 1,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -2063,9 +1625,7 @@
       ],
       "14": [
         {
-          "Jahr": 2023,
           "Monat": 2,
-          "Tag": 14,
           "Wochentag_Num": 2,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -2079,9 +1639,7 @@
       ],
       "15": [
         {
-          "Jahr": 2023,
           "Monat": 2,
-          "Tag": 15,
           "Wochentag_Num": 3,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -2095,9 +1653,7 @@
       ],
       "16": [
         {
-          "Jahr": 2023,
           "Monat": 2,
-          "Tag": 16,
           "Wochentag_Num": 4,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -2111,9 +1667,7 @@
       ],
       "17": [
         {
-          "Jahr": 2023,
           "Monat": 2,
-          "Tag": 17,
           "Wochentag_Num": 5,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -2127,9 +1681,7 @@
       ],
       "18": [
         {
-          "Jahr": 2023,
           "Monat": 2,
-          "Tag": 18,
           "Wochentag_Num": 6,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -2143,9 +1695,7 @@
       ],
       "19": [
         {
-          "Jahr": 2023,
           "Monat": 2,
-          "Tag": 19,
           "Wochentag_Num": 7,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -2159,9 +1709,7 @@
       ],
       "21": [
         {
-          "Jahr": 2023,
           "Monat": 2,
-          "Tag": 21,
           "Wochentag_Num": 2,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -2175,9 +1723,7 @@
       ],
       "22": [
         {
-          "Jahr": 2023,
           "Monat": 2,
-          "Tag": 22,
           "Wochentag_Num": 3,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -2191,9 +1737,7 @@
       ],
       "24": [
         {
-          "Jahr": 2023,
           "Monat": 2,
-          "Tag": 24,
           "Wochentag_Num": 5,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -2207,9 +1751,7 @@
       ],
       "25": [
         {
-          "Jahr": 2023,
           "Monat": 2,
-          "Tag": 25,
           "Wochentag_Num": 6,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -2223,9 +1765,7 @@
       ],
       "26": [
         {
-          "Jahr": 2023,
           "Monat": 2,
-          "Tag": 26,
           "Wochentag_Num": 7,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -2239,9 +1779,7 @@
       ],
       "27": [
         {
-          "Jahr": 2023,
           "Monat": 2,
-          "Tag": 27,
           "Wochentag_Num": 1,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -2257,9 +1795,7 @@
     "3": {
       "1": [
         {
-          "Jahr": 2023,
           "Monat": 3,
-          "Tag": 1,
           "Wochentag_Num": 3,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -2273,9 +1809,7 @@
       ],
       "2": [
         {
-          "Jahr": 2023,
           "Monat": 3,
-          "Tag": 2,
           "Wochentag_Num": 4,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -2289,9 +1823,7 @@
       ],
       "3": [
         {
-          "Jahr": 2023,
           "Monat": 3,
-          "Tag": 3,
           "Wochentag_Num": 5,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -2305,9 +1837,7 @@
       ],
       "4": [
         {
-          "Jahr": 2023,
           "Monat": 3,
-          "Tag": 4,
           "Wochentag_Num": 6,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -2321,9 +1851,7 @@
       ],
       "6": [
         {
-          "Jahr": 2023,
           "Monat": 3,
-          "Tag": 6,
           "Wochentag_Num": 1,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -2337,9 +1865,7 @@
       ],
       "8": [
         {
-          "Jahr": 2023,
           "Monat": 3,
-          "Tag": 8,
           "Wochentag_Num": 3,
           "Feiertag": 1,
           "Ferientag": 0,
@@ -2353,9 +1879,7 @@
       ],
       "9": [
         {
-          "Jahr": 2023,
           "Monat": 3,
-          "Tag": 9,
           "Wochentag_Num": 4,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -2369,9 +1893,7 @@
       ],
       "10": [
         {
-          "Jahr": 2023,
           "Monat": 3,
-          "Tag": 10,
           "Wochentag_Num": 5,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -2385,9 +1907,7 @@
       ],
       "11": [
         {
-          "Jahr": 2023,
           "Monat": 3,
-          "Tag": 11,
           "Wochentag_Num": 6,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -2401,9 +1921,7 @@
       ],
       "12": [
         {
-          "Jahr": 2023,
           "Monat": 3,
-          "Tag": 12,
           "Wochentag_Num": 7,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -2417,9 +1935,7 @@
       ],
       "13": [
         {
-          "Jahr": 2023,
           "Monat": 3,
-          "Tag": 13,
           "Wochentag_Num": 1,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -2433,9 +1949,7 @@
       ],
       "16": [
         {
-          "Jahr": 2023,
           "Monat": 3,
-          "Tag": 16,
           "Wochentag_Num": 4,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -2449,9 +1963,7 @@
       ],
       "17": [
         {
-          "Jahr": 2023,
           "Monat": 3,
-          "Tag": 17,
           "Wochentag_Num": 5,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -2465,9 +1977,7 @@
       ],
       "18": [
         {
-          "Jahr": 2023,
           "Monat": 3,
-          "Tag": 18,
           "Wochentag_Num": 6,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -2481,9 +1991,7 @@
       ],
       "19": [
         {
-          "Jahr": 2023,
           "Monat": 3,
-          "Tag": 19,
           "Wochentag_Num": 7,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -2497,9 +2005,7 @@
       ],
       "20": [
         {
-          "Jahr": 2023,
           "Monat": 3,
-          "Tag": 20,
           "Wochentag_Num": 1,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -2513,9 +2019,7 @@
       ],
       "21": [
         {
-          "Jahr": 2023,
           "Monat": 3,
-          "Tag": 21,
           "Wochentag_Num": 2,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -2529,9 +2033,7 @@
       ],
       "22": [
         {
-          "Jahr": 2023,
           "Monat": 3,
-          "Tag": 22,
           "Wochentag_Num": 3,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -2545,9 +2047,7 @@
       ],
       "23": [
         {
-          "Jahr": 2023,
           "Monat": 3,
-          "Tag": 23,
           "Wochentag_Num": 4,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -2561,9 +2061,7 @@
       ],
       "24": [
         {
-          "Jahr": 2023,
           "Monat": 3,
-          "Tag": 24,
           "Wochentag_Num": 5,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -2577,9 +2075,7 @@
       ],
       "25": [
         {
-          "Jahr": 2023,
           "Monat": 3,
-          "Tag": 25,
           "Wochentag_Num": 6,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -2593,9 +2089,7 @@
       ],
       "26": [
         {
-          "Jahr": 2023,
           "Monat": 3,
-          "Tag": 26,
           "Wochentag_Num": 7,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -2609,9 +2103,7 @@
       ],
       "28": [
         {
-          "Jahr": 2023,
           "Monat": 3,
-          "Tag": 28,
           "Wochentag_Num": 2,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -2625,9 +2117,7 @@
       ],
       "29": [
         {
-          "Jahr": 2023,
           "Monat": 3,
-          "Tag": 29,
           "Wochentag_Num": 3,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -2641,9 +2131,7 @@
       ],
       "30": [
         {
-          "Jahr": 2023,
           "Monat": 3,
-          "Tag": 30,
           "Wochentag_Num": 4,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -2657,9 +2145,7 @@
       ],
       "31": [
         {
-          "Jahr": 2023,
           "Monat": 3,
-          "Tag": 31,
           "Wochentag_Num": 5,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -2675,9 +2161,7 @@
     "4": {
       "1": [
         {
-          "Jahr": 2023,
           "Monat": 4,
-          "Tag": 1,
           "Wochentag_Num": 6,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -2691,9 +2175,7 @@
       ],
       "2": [
         {
-          "Jahr": 2023,
           "Monat": 4,
-          "Tag": 2,
           "Wochentag_Num": 7,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -2707,9 +2189,7 @@
       ],
       "4": [
         {
-          "Jahr": 2023,
           "Monat": 4,
-          "Tag": 4,
           "Wochentag_Num": 2,
           "Feiertag": 0,
           "Ferientag": 1,
@@ -2723,9 +2203,7 @@
       ],
       "6": [
         {
-          "Jahr": 2023,
           "Monat": 4,
-          "Tag": 6,
           "Wochentag_Num": 4,
           "Feiertag": 0,
           "Ferientag": 1,
@@ -2739,9 +2217,7 @@
       ],
       "8": [
         {
-          "Jahr": 2023,
           "Monat": 4,
-          "Tag": 8,
           "Wochentag_Num": 6,
           "Feiertag": 0,
           "Ferientag": 1,
@@ -2755,9 +2231,7 @@
       ],
       "9": [
         {
-          "Jahr": 2023,
           "Monat": 4,
-          "Tag": 9,
           "Wochentag_Num": 7,
           "Feiertag": 0,
           "Ferientag": 1,
@@ -2771,9 +2245,7 @@
       ],
       "10": [
         {
-          "Jahr": 2023,
           "Monat": 4,
-          "Tag": 10,
           "Wochentag_Num": 1,
           "Feiertag": 1,
           "Ferientag": 1,
@@ -2787,9 +2259,7 @@
       ],
       "11": [
         {
-          "Jahr": 2023,
           "Monat": 4,
-          "Tag": 11,
           "Wochentag_Num": 2,
           "Feiertag": 0,
           "Ferientag": 1,
@@ -2803,9 +2273,7 @@
       ],
       "14": [
         {
-          "Jahr": 2023,
           "Monat": 4,
-          "Tag": 14,
           "Wochentag_Num": 5,
           "Feiertag": 0,
           "Ferientag": 1,
@@ -2819,9 +2287,7 @@
       ],
       "15": [
         {
-          "Jahr": 2023,
           "Monat": 4,
-          "Tag": 15,
           "Wochentag_Num": 6,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -2835,9 +2301,7 @@
       ],
       "16": [
         {
-          "Jahr": 2023,
           "Monat": 4,
-          "Tag": 16,
           "Wochentag_Num": 7,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -2851,9 +2315,7 @@
       ],
       "17": [
         {
-          "Jahr": 2023,
           "Monat": 4,
-          "Tag": 17,
           "Wochentag_Num": 1,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -2867,9 +2329,7 @@
       ],
       "18": [
         {
-          "Jahr": 2023,
           "Monat": 4,
-          "Tag": 18,
           "Wochentag_Num": 2,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -2883,9 +2343,7 @@
       ],
       "19": [
         {
-          "Jahr": 2023,
           "Monat": 4,
-          "Tag": 19,
           "Wochentag_Num": 3,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -2899,9 +2357,7 @@
       ],
       "20": [
         {
-          "Jahr": 2023,
           "Monat": 4,
-          "Tag": 20,
           "Wochentag_Num": 4,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -2915,9 +2371,7 @@
       ],
       "21": [
         {
-          "Jahr": 2023,
           "Monat": 4,
-          "Tag": 21,
           "Wochentag_Num": 5,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -2931,9 +2385,7 @@
       ],
       "23": [
         {
-          "Jahr": 2023,
           "Monat": 4,
-          "Tag": 23,
           "Wochentag_Num": 7,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -2947,9 +2399,7 @@
       ],
       "24": [
         {
-          "Jahr": 2023,
           "Monat": 4,
-          "Tag": 24,
           "Wochentag_Num": 1,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -2963,9 +2413,7 @@
       ],
       "25": [
         {
-          "Jahr": 2023,
           "Monat": 4,
-          "Tag": 25,
           "Wochentag_Num": 2,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -2979,9 +2427,7 @@
       ],
       "26": [
         {
-          "Jahr": 2023,
           "Monat": 4,
-          "Tag": 26,
           "Wochentag_Num": 3,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -2995,9 +2441,7 @@
       ],
       "27": [
         {
-          "Jahr": 2023,
           "Monat": 4,
-          "Tag": 27,
           "Wochentag_Num": 4,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -3011,9 +2455,7 @@
       ],
       "28": [
         {
-          "Jahr": 2023,
           "Monat": 4,
-          "Tag": 28,
           "Wochentag_Num": 5,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -3027,9 +2469,7 @@
       ],
       "29": [
         {
-          "Jahr": 2023,
           "Monat": 4,
-          "Tag": 29,
           "Wochentag_Num": 6,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -3045,9 +2485,7 @@
     "5": {
       "2": [
         {
-          "Jahr": 2023,
           "Monat": 5,
-          "Tag": 2,
           "Wochentag_Num": 2,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -3061,9 +2499,7 @@
       ],
       "3": [
         {
-          "Jahr": 2023,
           "Monat": 5,
-          "Tag": 3,
           "Wochentag_Num": 3,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -3077,9 +2513,7 @@
       ],
       "4": [
         {
-          "Jahr": 2023,
           "Monat": 5,
-          "Tag": 4,
           "Wochentag_Num": 4,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -3093,9 +2527,7 @@
       ],
       "5": [
         {
-          "Jahr": 2023,
           "Monat": 5,
-          "Tag": 5,
           "Wochentag_Num": 5,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -3109,9 +2541,7 @@
       ],
       "7": [
         {
-          "Jahr": 2023,
           "Monat": 5,
-          "Tag": 7,
           "Wochentag_Num": 7,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -3125,9 +2555,7 @@
       ],
       "8": [
         {
-          "Jahr": 2023,
           "Monat": 5,
-          "Tag": 8,
           "Wochentag_Num": 1,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -3141,9 +2569,7 @@
       ],
       "9": [
         {
-          "Jahr": 2023,
           "Monat": 5,
-          "Tag": 9,
           "Wochentag_Num": 2,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -3157,9 +2583,7 @@
       ],
       "10": [
         {
-          "Jahr": 2023,
           "Monat": 5,
-          "Tag": 10,
           "Wochentag_Num": 3,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -3173,9 +2597,7 @@
       ],
       "11": [
         {
-          "Jahr": 2023,
           "Monat": 5,
-          "Tag": 11,
           "Wochentag_Num": 4,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -3189,9 +2611,7 @@
       ],
       "12": [
         {
-          "Jahr": 2023,
           "Monat": 5,
-          "Tag": 12,
           "Wochentag_Num": 5,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -3205,9 +2625,7 @@
       ],
       "13": [
         {
-          "Jahr": 2023,
           "Monat": 5,
-          "Tag": 13,
           "Wochentag_Num": 6,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -3221,9 +2639,7 @@
       ],
       "14": [
         {
-          "Jahr": 2023,
           "Monat": 5,
-          "Tag": 14,
           "Wochentag_Num": 7,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -3237,9 +2653,7 @@
       ],
       "15": [
         {
-          "Jahr": 2023,
           "Monat": 5,
-          "Tag": 15,
           "Wochentag_Num": 1,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -3253,9 +2667,7 @@
       ],
       "17": [
         {
-          "Jahr": 2023,
           "Monat": 5,
-          "Tag": 17,
           "Wochentag_Num": 3,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -3269,9 +2681,7 @@
       ],
       "19": [
         {
-          "Jahr": 2023,
           "Monat": 5,
-          "Tag": 19,
           "Wochentag_Num": 5,
           "Feiertag": 0,
           "Ferientag": 1,
@@ -3285,9 +2695,7 @@
       ],
       "20": [
         {
-          "Jahr": 2023,
           "Monat": 5,
-          "Tag": 20,
           "Wochentag_Num": 6,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -3301,9 +2709,7 @@
       ],
       "21": [
         {
-          "Jahr": 2023,
           "Monat": 5,
-          "Tag": 21,
           "Wochentag_Num": 7,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -3317,9 +2723,7 @@
       ],
       "22": [
         {
-          "Jahr": 2023,
           "Monat": 5,
-          "Tag": 22,
           "Wochentag_Num": 1,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -3333,9 +2737,7 @@
       ],
       "23": [
         {
-          "Jahr": 2023,
           "Monat": 5,
-          "Tag": 23,
           "Wochentag_Num": 2,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -3349,9 +2751,7 @@
       ],
       "24": [
         {
-          "Jahr": 2023,
           "Monat": 5,
-          "Tag": 24,
           "Wochentag_Num": 3,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -3365,9 +2765,7 @@
       ],
       "25": [
         {
-          "Jahr": 2023,
           "Monat": 5,
-          "Tag": 25,
           "Wochentag_Num": 4,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -3381,9 +2779,7 @@
       ],
       "26": [
         {
-          "Jahr": 2023,
           "Monat": 5,
-          "Tag": 26,
           "Wochentag_Num": 5,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -3397,9 +2793,7 @@
       ],
       "28": [
         {
-          "Jahr": 2023,
           "Monat": 5,
-          "Tag": 28,
           "Wochentag_Num": 7,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -3413,9 +2807,7 @@
       ],
       "29": [
         {
-          "Jahr": 2023,
           "Monat": 5,
-          "Tag": 29,
           "Wochentag_Num": 1,
           "Feiertag": 1,
           "Ferientag": 0,
@@ -3429,9 +2821,7 @@
       ],
       "30": [
         {
-          "Jahr": 2023,
           "Monat": 5,
-          "Tag": 30,
           "Wochentag_Num": 2,
           "Feiertag": 0,
           "Ferientag": 1,
@@ -3445,9 +2835,7 @@
       ],
       "31": [
         {
-          "Jahr": 2023,
           "Monat": 5,
-          "Tag": 31,
           "Wochentag_Num": 3,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -3463,9 +2851,7 @@
     "6": {
       "1": [
         {
-          "Jahr": 2023,
           "Monat": 6,
-          "Tag": 1,
           "Wochentag_Num": 4,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -3479,9 +2865,7 @@
       ],
       "3": [
         {
-          "Jahr": 2023,
           "Monat": 6,
-          "Tag": 3,
           "Wochentag_Num": 6,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -3495,9 +2879,7 @@
       ],
       "4": [
         {
-          "Jahr": 2023,
           "Monat": 6,
-          "Tag": 4,
           "Wochentag_Num": 7,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -3511,9 +2893,7 @@
       ],
       "6": [
         {
-          "Jahr": 2023,
           "Monat": 6,
-          "Tag": 6,
           "Wochentag_Num": 2,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -3527,9 +2907,7 @@
       ],
       "7": [
         {
-          "Jahr": 2023,
           "Monat": 6,
-          "Tag": 7,
           "Wochentag_Num": 3,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -3543,9 +2921,7 @@
       ],
       "8": [
         {
-          "Jahr": 2023,
           "Monat": 6,
-          "Tag": 8,
           "Wochentag_Num": 4,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -3559,9 +2935,7 @@
       ],
       "9": [
         {
-          "Jahr": 2023,
           "Monat": 6,
-          "Tag": 9,
           "Wochentag_Num": 5,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -3575,9 +2949,7 @@
       ],
       "10": [
         {
-          "Jahr": 2023,
           "Monat": 6,
-          "Tag": 10,
           "Wochentag_Num": 6,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -3591,9 +2963,7 @@
       ],
       "11": [
         {
-          "Jahr": 2023,
           "Monat": 6,
-          "Tag": 11,
           "Wochentag_Num": 7,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -3607,9 +2977,7 @@
       ],
       "12": [
         {
-          "Jahr": 2023,
           "Monat": 6,
-          "Tag": 12,
           "Wochentag_Num": 1,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -3623,9 +2991,7 @@
       ],
       "13": [
         {
-          "Jahr": 2023,
           "Monat": 6,
-          "Tag": 13,
           "Wochentag_Num": 2,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -3639,9 +3005,7 @@
       ],
       "15": [
         {
-          "Jahr": 2023,
           "Monat": 6,
-          "Tag": 15,
           "Wochentag_Num": 4,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -3655,9 +3019,7 @@
       ],
       "16": [
         {
-          "Jahr": 2023,
           "Monat": 6,
-          "Tag": 16,
           "Wochentag_Num": 5,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -3671,9 +3033,7 @@
       ],
       "18": [
         {
-          "Jahr": 2023,
           "Monat": 6,
-          "Tag": 18,
           "Wochentag_Num": 7,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -3687,9 +3047,7 @@
       ],
       "19": [
         {
-          "Jahr": 2023,
           "Monat": 6,
-          "Tag": 19,
           "Wochentag_Num": 1,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -3703,9 +3061,7 @@
       ],
       "20": [
         {
-          "Jahr": 2023,
           "Monat": 6,
-          "Tag": 20,
           "Wochentag_Num": 2,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -3719,9 +3075,7 @@
       ],
       "22": [
         {
-          "Jahr": 2023,
           "Monat": 6,
-          "Tag": 22,
           "Wochentag_Num": 4,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -3735,9 +3089,7 @@
       ],
       "23": [
         {
-          "Jahr": 2023,
           "Monat": 6,
-          "Tag": 23,
           "Wochentag_Num": 5,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -3751,9 +3103,7 @@
       ],
       "24": [
         {
-          "Jahr": 2023,
           "Monat": 6,
-          "Tag": 24,
           "Wochentag_Num": 6,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -3767,9 +3117,7 @@
       ],
       "25": [
         {
-          "Jahr": 2023,
           "Monat": 6,
-          "Tag": 25,
           "Wochentag_Num": 7,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -3783,9 +3131,7 @@
       ],
       "26": [
         {
-          "Jahr": 2023,
           "Monat": 6,
-          "Tag": 26,
           "Wochentag_Num": 1,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -3799,9 +3145,7 @@
       ],
       "27": [
         {
-          "Jahr": 2023,
           "Monat": 6,
-          "Tag": 27,
           "Wochentag_Num": 2,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -3815,9 +3159,7 @@
       ],
       "28": [
         {
-          "Jahr": 2023,
           "Monat": 6,
-          "Tag": 28,
           "Wochentag_Num": 3,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -3831,9 +3173,7 @@
       ],
       "30": [
         {
-          "Jahr": 2023,
           "Monat": 6,
-          "Tag": 30,
           "Wochentag_Num": 5,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -3849,9 +3189,7 @@
     "7": {
       "1": [
         {
-          "Jahr": 2023,
           "Monat": 7,
-          "Tag": 1,
           "Wochentag_Num": 6,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -3865,9 +3203,7 @@
       ],
       "2": [
         {
-          "Jahr": 2023,
           "Monat": 7,
-          "Tag": 2,
           "Wochentag_Num": 7,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -3881,9 +3217,7 @@
       ],
       "3": [
         {
-          "Jahr": 2023,
           "Monat": 7,
-          "Tag": 3,
           "Wochentag_Num": 1,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -3897,9 +3231,7 @@
       ],
       "4": [
         {
-          "Jahr": 2023,
           "Monat": 7,
-          "Tag": 4,
           "Wochentag_Num": 2,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -3913,9 +3245,7 @@
       ],
       "5": [
         {
-          "Jahr": 2023,
           "Monat": 7,
-          "Tag": 5,
           "Wochentag_Num": 3,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -3929,9 +3259,7 @@
       ],
       "6": [
         {
-          "Jahr": 2023,
           "Monat": 7,
-          "Tag": 6,
           "Wochentag_Num": 4,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -3945,9 +3273,7 @@
       ],
       "7": [
         {
-          "Jahr": 2023,
           "Monat": 7,
-          "Tag": 7,
           "Wochentag_Num": 5,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -3961,9 +3287,7 @@
       ],
       "9": [
         {
-          "Jahr": 2023,
           "Monat": 7,
-          "Tag": 9,
           "Wochentag_Num": 7,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -3977,9 +3301,7 @@
       ],
       "10": [
         {
-          "Jahr": 2023,
           "Monat": 7,
-          "Tag": 10,
           "Wochentag_Num": 1,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -3993,9 +3315,7 @@
       ],
       "11": [
         {
-          "Jahr": 2023,
           "Monat": 7,
-          "Tag": 11,
           "Wochentag_Num": 2,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -4009,9 +3329,7 @@
       ],
       "13": [
         {
-          "Jahr": 2023,
           "Monat": 7,
-          "Tag": 13,
           "Wochentag_Num": 4,
           "Feiertag": 0,
           "Ferientag": 1,
@@ -4025,9 +3343,7 @@
       ],
       "14": [
         {
-          "Jahr": 2023,
           "Monat": 7,
-          "Tag": 14,
           "Wochentag_Num": 5,
           "Feiertag": 0,
           "Ferientag": 1,
@@ -4041,9 +3357,7 @@
       ],
       "15": [
         {
-          "Jahr": 2023,
           "Monat": 7,
-          "Tag": 15,
           "Wochentag_Num": 6,
           "Feiertag": 0,
           "Ferientag": 1,
@@ -4057,9 +3371,7 @@
       ],
       "16": [
         {
-          "Jahr": 2023,
           "Monat": 7,
-          "Tag": 16,
           "Wochentag_Num": 7,
           "Feiertag": 0,
           "Ferientag": 1,
@@ -4073,9 +3385,7 @@
       ],
       "17": [
         {
-          "Jahr": 2023,
           "Monat": 7,
-          "Tag": 17,
           "Wochentag_Num": 1,
           "Feiertag": 0,
           "Ferientag": 1,
@@ -4089,9 +3399,7 @@
       ],
       "18": [
         {
-          "Jahr": 2023,
           "Monat": 7,
-          "Tag": 18,
           "Wochentag_Num": 2,
           "Feiertag": 0,
           "Ferientag": 1,
@@ -4105,9 +3413,7 @@
       ],
       "19": [
         {
-          "Jahr": 2023,
           "Monat": 7,
-          "Tag": 19,
           "Wochentag_Num": 3,
           "Feiertag": 0,
           "Ferientag": 1,
@@ -4121,9 +3427,7 @@
       ],
       "20": [
         {
-          "Jahr": 2023,
           "Monat": 7,
-          "Tag": 20,
           "Wochentag_Num": 4,
           "Feiertag": 0,
           "Ferientag": 1,
@@ -4137,9 +3441,7 @@
       ],
       "21": [
         {
-          "Jahr": 2023,
           "Monat": 7,
-          "Tag": 21,
           "Wochentag_Num": 5,
           "Feiertag": 0,
           "Ferientag": 1,
@@ -4153,9 +3455,7 @@
       ],
       "22": [
         {
-          "Jahr": 2023,
           "Monat": 7,
-          "Tag": 22,
           "Wochentag_Num": 6,
           "Feiertag": 0,
           "Ferientag": 1,
@@ -4169,9 +3469,7 @@
       ],
       "23": [
         {
-          "Jahr": 2023,
           "Monat": 7,
-          "Tag": 23,
           "Wochentag_Num": 7,
           "Feiertag": 0,
           "Ferientag": 1,
@@ -4185,9 +3483,7 @@
       ],
       "24": [
         {
-          "Jahr": 2023,
           "Monat": 7,
-          "Tag": 24,
           "Wochentag_Num": 1,
           "Feiertag": 0,
           "Ferientag": 1,
@@ -4201,9 +3497,7 @@
       ],
       "25": [
         {
-          "Jahr": 2023,
           "Monat": 7,
-          "Tag": 25,
           "Wochentag_Num": 2,
           "Feiertag": 0,
           "Ferientag": 1,
@@ -4217,9 +3511,7 @@
       ],
       "26": [
         {
-          "Jahr": 2023,
           "Monat": 7,
-          "Tag": 26,
           "Wochentag_Num": 3,
           "Feiertag": 0,
           "Ferientag": 1,
@@ -4233,9 +3525,7 @@
       ],
       "27": [
         {
-          "Jahr": 2023,
           "Monat": 7,
-          "Tag": 27,
           "Wochentag_Num": 4,
           "Feiertag": 0,
           "Ferientag": 1,
@@ -4249,9 +3539,7 @@
       ],
       "28": [
         {
-          "Jahr": 2023,
           "Monat": 7,
-          "Tag": 28,
           "Wochentag_Num": 5,
           "Feiertag": 0,
           "Ferientag": 1,
@@ -4265,9 +3553,7 @@
       ],
       "29": [
         {
-          "Jahr": 2023,
           "Monat": 7,
-          "Tag": 29,
           "Wochentag_Num": 6,
           "Feiertag": 0,
           "Ferientag": 1,
@@ -4281,9 +3567,7 @@
       ],
       "30": [
         {
-          "Jahr": 2023,
           "Monat": 7,
-          "Tag": 30,
           "Wochentag_Num": 7,
           "Feiertag": 0,
           "Ferientag": 1,
@@ -4297,9 +3581,7 @@
       ],
       "31": [
         {
-          "Jahr": 2023,
           "Monat": 7,
-          "Tag": 31,
           "Wochentag_Num": 1,
           "Feiertag": 0,
           "Ferientag": 1,
@@ -4315,9 +3597,7 @@
     "8": {
       "1": [
         {
-          "Jahr": 2023,
           "Monat": 8,
-          "Tag": 1,
           "Wochentag_Num": 2,
           "Feiertag": 0,
           "Ferientag": 1,
@@ -4331,9 +3611,7 @@
       ],
       "2": [
         {
-          "Jahr": 2023,
           "Monat": 8,
-          "Tag": 2,
           "Wochentag_Num": 3,
           "Feiertag": 0,
           "Ferientag": 1,
@@ -4347,9 +3625,7 @@
       ],
       "3": [
         {
-          "Jahr": 2023,
           "Monat": 8,
-          "Tag": 3,
           "Wochentag_Num": 4,
           "Feiertag": 0,
           "Ferientag": 1,
@@ -4363,9 +3639,7 @@
       ],
       "4": [
         {
-          "Jahr": 2023,
           "Monat": 8,
-          "Tag": 4,
           "Wochentag_Num": 5,
           "Feiertag": 0,
           "Ferientag": 1,
@@ -4379,9 +3653,7 @@
       ],
       "5": [
         {
-          "Jahr": 2023,
           "Monat": 8,
-          "Tag": 5,
           "Wochentag_Num": 6,
           "Feiertag": 0,
           "Ferientag": 1,
@@ -4395,9 +3667,7 @@
       ],
       "7": [
         {
-          "Jahr": 2023,
           "Monat": 8,
-          "Tag": 7,
           "Wochentag_Num": 1,
           "Feiertag": 0,
           "Ferientag": 1,
@@ -4411,9 +3681,7 @@
       ],
       "9": [
         {
-          "Jahr": 2023,
           "Monat": 8,
-          "Tag": 9,
           "Wochentag_Num": 3,
           "Feiertag": 0,
           "Ferientag": 1,
@@ -4427,9 +3695,7 @@
       ],
       "11": [
         {
-          "Jahr": 2023,
           "Monat": 8,
-          "Tag": 11,
           "Wochentag_Num": 5,
           "Feiertag": 0,
           "Ferientag": 1,
@@ -4443,9 +3709,7 @@
       ],
       "15": [
         {
-          "Jahr": 2023,
           "Monat": 8,
-          "Tag": 15,
           "Wochentag_Num": 2,
           "Feiertag": 0,
           "Ferientag": 1,
@@ -4459,9 +3723,7 @@
       ],
       "18": [
         {
-          "Jahr": 2023,
           "Monat": 8,
-          "Tag": 18,
           "Wochentag_Num": 5,
           "Feiertag": 0,
           "Ferientag": 1,
@@ -4475,9 +3737,7 @@
       ],
       "20": [
         {
-          "Jahr": 2023,
           "Monat": 8,
-          "Tag": 20,
           "Wochentag_Num": 7,
           "Feiertag": 0,
           "Ferientag": 1,
@@ -4491,9 +3751,7 @@
       ],
       "21": [
         {
-          "Jahr": 2023,
           "Monat": 8,
-          "Tag": 21,
           "Wochentag_Num": 1,
           "Feiertag": 0,
           "Ferientag": 1,
@@ -4507,9 +3765,7 @@
       ],
       "23": [
         {
-          "Jahr": 2023,
           "Monat": 8,
-          "Tag": 23,
           "Wochentag_Num": 3,
           "Feiertag": 0,
           "Ferientag": 1,
@@ -4523,9 +3779,7 @@
       ],
       "24": [
         {
-          "Jahr": 2023,
           "Monat": 8,
-          "Tag": 24,
           "Wochentag_Num": 4,
           "Feiertag": 0,
           "Ferientag": 1,
@@ -4539,9 +3793,7 @@
       ],
       "26": [
         {
-          "Jahr": 2023,
           "Monat": 8,
-          "Tag": 26,
           "Wochentag_Num": 6,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -4555,9 +3807,7 @@
       ],
       "27": [
         {
-          "Jahr": 2023,
           "Monat": 8,
-          "Tag": 27,
           "Wochentag_Num": 7,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -4571,9 +3821,7 @@
       ],
       "29": [
         {
-          "Jahr": 2023,
           "Monat": 8,
-          "Tag": 29,
           "Wochentag_Num": 2,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -4587,9 +3835,7 @@
       ],
       "30": [
         {
-          "Jahr": 2023,
           "Monat": 8,
-          "Tag": 30,
           "Wochentag_Num": 3,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -4605,9 +3851,7 @@
     "9": {
       "1": [
         {
-          "Jahr": 2023,
           "Monat": 9,
-          "Tag": 1,
           "Wochentag_Num": 5,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -4621,9 +3865,7 @@
       ],
       "2": [
         {
-          "Jahr": 2023,
           "Monat": 9,
-          "Tag": 2,
           "Wochentag_Num": 6,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -4637,9 +3879,7 @@
       ],
       "3": [
         {
-          "Jahr": 2023,
           "Monat": 9,
-          "Tag": 3,
           "Wochentag_Num": 7,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -4653,9 +3893,7 @@
       ],
       "5": [
         {
-          "Jahr": 2023,
           "Monat": 9,
-          "Tag": 5,
           "Wochentag_Num": 2,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -4669,9 +3907,7 @@
       ],
       "6": [
         {
-          "Jahr": 2023,
           "Monat": 9,
-          "Tag": 6,
           "Wochentag_Num": 3,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -4685,9 +3921,7 @@
       ],
       "7": [
         {
-          "Jahr": 2023,
           "Monat": 9,
-          "Tag": 7,
           "Wochentag_Num": 4,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -4701,9 +3935,7 @@
       ],
       "8": [
         {
-          "Jahr": 2023,
           "Monat": 9,
-          "Tag": 8,
           "Wochentag_Num": 5,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -4717,9 +3949,7 @@
       ],
       "10": [
         {
-          "Jahr": 2023,
           "Monat": 9,
-          "Tag": 10,
           "Wochentag_Num": 7,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -4733,9 +3963,7 @@
       ],
       "11": [
         {
-          "Jahr": 2023,
           "Monat": 9,
-          "Tag": 11,
           "Wochentag_Num": 1,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -4749,9 +3977,7 @@
       ],
       "12": [
         {
-          "Jahr": 2023,
           "Monat": 9,
-          "Tag": 12,
           "Wochentag_Num": 2,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -4765,9 +3991,7 @@
       ],
       "13": [
         {
-          "Jahr": 2023,
           "Monat": 9,
-          "Tag": 13,
           "Wochentag_Num": 3,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -4781,9 +4005,7 @@
       ],
       "14": [
         {
-          "Jahr": 2023,
           "Monat": 9,
-          "Tag": 14,
           "Wochentag_Num": 4,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -4797,9 +4019,7 @@
       ],
       "15": [
         {
-          "Jahr": 2023,
           "Monat": 9,
-          "Tag": 15,
           "Wochentag_Num": 5,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -4813,9 +4033,7 @@
       ],
       "16": [
         {
-          "Jahr": 2023,
           "Monat": 9,
-          "Tag": 16,
           "Wochentag_Num": 6,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -4829,9 +4047,7 @@
       ],
       "17": [
         {
-          "Jahr": 2023,
           "Monat": 9,
-          "Tag": 17,
           "Wochentag_Num": 7,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -4845,9 +4061,7 @@
       ],
       "19": [
         {
-          "Jahr": 2023,
           "Monat": 9,
-          "Tag": 19,
           "Wochentag_Num": 2,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -4861,9 +4075,7 @@
       ],
       "20": [
         {
-          "Jahr": 2023,
           "Monat": 9,
-          "Tag": 20,
           "Wochentag_Num": 3,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -4877,9 +4089,7 @@
       ],
       "21": [
         {
-          "Jahr": 2023,
           "Monat": 9,
-          "Tag": 21,
           "Wochentag_Num": 4,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -4893,9 +4103,7 @@
       ],
       "22": [
         {
-          "Jahr": 2023,
           "Monat": 9,
-          "Tag": 22,
           "Wochentag_Num": 5,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -4909,9 +4117,7 @@
       ],
       "23": [
         {
-          "Jahr": 2023,
           "Monat": 9,
-          "Tag": 23,
           "Wochentag_Num": 6,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -4925,9 +4131,7 @@
       ],
       "24": [
         {
-          "Jahr": 2023,
           "Monat": 9,
-          "Tag": 24,
           "Wochentag_Num": 7,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -4941,9 +4145,7 @@
       ],
       "25": [
         {
-          "Jahr": 2023,
           "Monat": 9,
-          "Tag": 25,
           "Wochentag_Num": 1,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -4957,9 +4159,7 @@
       ],
       "26": [
         {
-          "Jahr": 2023,
           "Monat": 9,
-          "Tag": 26,
           "Wochentag_Num": 2,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -4973,9 +4173,7 @@
       ],
       "27": [
         {
-          "Jahr": 2023,
           "Monat": 9,
-          "Tag": 27,
           "Wochentag_Num": 3,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -4989,9 +4187,7 @@
       ],
       "29": [
         {
-          "Jahr": 2023,
           "Monat": 9,
-          "Tag": 29,
           "Wochentag_Num": 5,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -5005,9 +4201,7 @@
       ],
       "30": [
         {
-          "Jahr": 2023,
           "Monat": 9,
-          "Tag": 30,
           "Wochentag_Num": 6,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -5023,9 +4217,7 @@
     "10": {
       "2": [
         {
-          "Jahr": 2023,
           "Monat": 10,
-          "Tag": 2,
           "Wochentag_Num": 1,
           "Feiertag": 0,
           "Ferientag": 1,
@@ -5039,9 +4231,7 @@
       ],
       "4": [
         {
-          "Jahr": 2023,
           "Monat": 10,
-          "Tag": 4,
           "Wochentag_Num": 3,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -5055,9 +4245,7 @@
       ],
       "5": [
         {
-          "Jahr": 2023,
           "Monat": 10,
-          "Tag": 5,
           "Wochentag_Num": 4,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -5071,9 +4259,7 @@
       ],
       "7": [
         {
-          "Jahr": 2023,
           "Monat": 10,
-          "Tag": 7,
           "Wochentag_Num": 6,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -5087,9 +4273,7 @@
       ],
       "9": [
         {
-          "Jahr": 2023,
           "Monat": 10,
-          "Tag": 9,
           "Wochentag_Num": 1,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -5103,9 +4287,7 @@
       ],
       "11": [
         {
-          "Jahr": 2023,
           "Monat": 10,
-          "Tag": 11,
           "Wochentag_Num": 3,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -5119,9 +4301,7 @@
       ],
       "13": [
         {
-          "Jahr": 2023,
           "Monat": 10,
-          "Tag": 13,
           "Wochentag_Num": 5,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -5135,9 +4315,7 @@
       ],
       "14": [
         {
-          "Jahr": 2023,
           "Monat": 10,
-          "Tag": 14,
           "Wochentag_Num": 6,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -5151,9 +4329,7 @@
       ],
       "15": [
         {
-          "Jahr": 2023,
           "Monat": 10,
-          "Tag": 15,
           "Wochentag_Num": 7,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -5167,9 +4343,7 @@
       ],
       "16": [
         {
-          "Jahr": 2023,
           "Monat": 10,
-          "Tag": 16,
           "Wochentag_Num": 1,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -5183,9 +4357,7 @@
       ],
       "19": [
         {
-          "Jahr": 2023,
           "Monat": 10,
-          "Tag": 19,
           "Wochentag_Num": 4,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -5199,9 +4371,7 @@
       ],
       "21": [
         {
-          "Jahr": 2023,
           "Monat": 10,
-          "Tag": 21,
           "Wochentag_Num": 6,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -5215,9 +4385,7 @@
       ],
       "22": [
         {
-          "Jahr": 2023,
           "Monat": 10,
-          "Tag": 22,
           "Wochentag_Num": 7,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -5231,9 +4399,7 @@
       ],
       "23": [
         {
-          "Jahr": 2023,
           "Monat": 10,
-          "Tag": 23,
           "Wochentag_Num": 1,
           "Feiertag": 0,
           "Ferientag": 1,
@@ -5247,9 +4413,7 @@
       ],
       "24": [
         {
-          "Jahr": 2023,
           "Monat": 10,
-          "Tag": 24,
           "Wochentag_Num": 2,
           "Feiertag": 0,
           "Ferientag": 1,
@@ -5263,9 +4427,7 @@
       ],
       "25": [
         {
-          "Jahr": 2023,
           "Monat": 10,
-          "Tag": 25,
           "Wochentag_Num": 3,
           "Feiertag": 0,
           "Ferientag": 1,
@@ -5279,9 +4441,7 @@
       ],
       "26": [
         {
-          "Jahr": 2023,
           "Monat": 10,
-          "Tag": 26,
           "Wochentag_Num": 4,
           "Feiertag": 0,
           "Ferientag": 1,
@@ -5295,9 +4455,7 @@
       ],
       "29": [
         {
-          "Jahr": 2023,
           "Monat": 10,
-          "Tag": 29,
           "Wochentag_Num": 7,
           "Feiertag": 0,
           "Ferientag": 1,
@@ -5311,9 +4469,7 @@
       ],
       "30": [
         {
-          "Jahr": 2023,
           "Monat": 10,
-          "Tag": 30,
           "Wochentag_Num": 1,
           "Feiertag": 0,
           "Ferientag": 1,
@@ -5327,9 +4483,7 @@
       ],
       "31": [
         {
-          "Jahr": 2023,
           "Monat": 10,
-          "Tag": 31,
           "Wochentag_Num": 2,
           "Feiertag": 0,
           "Ferientag": 1,
@@ -5345,9 +4499,7 @@
     "11": {
       "1": [
         {
-          "Jahr": 2023,
           "Monat": 11,
-          "Tag": 1,
           "Wochentag_Num": 3,
           "Feiertag": 0,
           "Ferientag": 1,
@@ -5361,9 +4513,7 @@
       ],
       "3": [
         {
-          "Jahr": 2023,
           "Monat": 11,
-          "Tag": 3,
           "Wochentag_Num": 5,
           "Feiertag": 0,
           "Ferientag": 1,
@@ -5377,9 +4527,7 @@
       ],
       "5": [
         {
-          "Jahr": 2023,
           "Monat": 11,
-          "Tag": 5,
           "Wochentag_Num": 7,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -5393,9 +4541,7 @@
       ],
       "6": [
         {
-          "Jahr": 2023,
           "Monat": 11,
-          "Tag": 6,
           "Wochentag_Num": 1,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -5409,9 +4555,7 @@
       ],
       "8": [
         {
-          "Jahr": 2023,
           "Monat": 11,
-          "Tag": 8,
           "Wochentag_Num": 3,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -5425,9 +4569,7 @@
       ],
       "10": [
         {
-          "Jahr": 2023,
           "Monat": 11,
-          "Tag": 10,
           "Wochentag_Num": 5,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -5441,9 +4583,7 @@
       ],
       "11": [
         {
-          "Jahr": 2023,
           "Monat": 11,
-          "Tag": 11,
           "Wochentag_Num": 6,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -5457,9 +4597,7 @@
       ],
       "13": [
         {
-          "Jahr": 2023,
           "Monat": 11,
-          "Tag": 13,
           "Wochentag_Num": 1,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -5473,9 +4611,7 @@
       ],
       "15": [
         {
-          "Jahr": 2023,
           "Monat": 11,
-          "Tag": 15,
           "Wochentag_Num": 3,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -5489,9 +4625,7 @@
       ],
       "16": [
         {
-          "Jahr": 2023,
           "Monat": 11,
-          "Tag": 16,
           "Wochentag_Num": 4,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -5505,9 +4639,7 @@
       ],
       "17": [
         {
-          "Jahr": 2023,
           "Monat": 11,
-          "Tag": 17,
           "Wochentag_Num": 5,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -5521,9 +4653,7 @@
       ],
       "18": [
         {
-          "Jahr": 2023,
           "Monat": 11,
-          "Tag": 18,
           "Wochentag_Num": 6,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -5537,9 +4667,7 @@
       ],
       "19": [
         {
-          "Jahr": 2023,
           "Monat": 11,
-          "Tag": 19,
           "Wochentag_Num": 7,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -5553,9 +4681,7 @@
       ],
       "20": [
         {
-          "Jahr": 2023,
           "Monat": 11,
-          "Tag": 20,
           "Wochentag_Num": 1,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -5569,9 +4695,7 @@
       ],
       "21": [
         {
-          "Jahr": 2023,
           "Monat": 11,
-          "Tag": 21,
           "Wochentag_Num": 2,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -5585,9 +4709,7 @@
       ],
       "23": [
         {
-          "Jahr": 2023,
           "Monat": 11,
-          "Tag": 23,
           "Wochentag_Num": 4,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -5601,9 +4723,7 @@
       ],
       "24": [
         {
-          "Jahr": 2023,
           "Monat": 11,
-          "Tag": 24,
           "Wochentag_Num": 5,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -5617,9 +4737,7 @@
       ],
       "25": [
         {
-          "Jahr": 2023,
           "Monat": 11,
-          "Tag": 25,
           "Wochentag_Num": 6,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -5633,9 +4751,7 @@
       ],
       "26": [
         {
-          "Jahr": 2023,
           "Monat": 11,
-          "Tag": 26,
           "Wochentag_Num": 7,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -5649,9 +4765,7 @@
       ],
       "27": [
         {
-          "Jahr": 2023,
           "Monat": 11,
-          "Tag": 27,
           "Wochentag_Num": 1,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -5665,9 +4779,7 @@
       ],
       "28": [
         {
-          "Jahr": 2023,
           "Monat": 11,
-          "Tag": 28,
           "Wochentag_Num": 2,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -5681,9 +4793,7 @@
       ],
       "29": [
         {
-          "Jahr": 2023,
           "Monat": 11,
-          "Tag": 29,
           "Wochentag_Num": 3,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -5697,9 +4807,7 @@
       ],
       "30": [
         {
-          "Jahr": 2023,
           "Monat": 11,
-          "Tag": 30,
           "Wochentag_Num": 4,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -5715,9 +4823,7 @@
     "12": {
       "1": [
         {
-          "Jahr": 2023,
           "Monat": 12,
-          "Tag": 1,
           "Wochentag_Num": 5,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -5731,9 +4837,7 @@
       ],
       "2": [
         {
-          "Jahr": 2023,
           "Monat": 12,
-          "Tag": 2,
           "Wochentag_Num": 6,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -5747,9 +4851,7 @@
       ],
       "3": [
         {
-          "Jahr": 2023,
           "Monat": 12,
-          "Tag": 3,
           "Wochentag_Num": 7,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -5763,9 +4865,7 @@
       ],
       "4": [
         {
-          "Jahr": 2023,
           "Monat": 12,
-          "Tag": 4,
           "Wochentag_Num": 1,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -5779,9 +4879,7 @@
       ],
       "5": [
         {
-          "Jahr": 2023,
           "Monat": 12,
-          "Tag": 5,
           "Wochentag_Num": 2,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -5795,9 +4893,7 @@
       ],
       "6": [
         {
-          "Jahr": 2023,
           "Monat": 12,
-          "Tag": 6,
           "Wochentag_Num": 3,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -5811,9 +4907,7 @@
       ],
       "7": [
         {
-          "Jahr": 2023,
           "Monat": 12,
-          "Tag": 7,
           "Wochentag_Num": 4,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -5827,9 +4921,7 @@
       ],
       "8": [
         {
-          "Jahr": 2023,
           "Monat": 12,
-          "Tag": 8,
           "Wochentag_Num": 5,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -5843,9 +4935,7 @@
       ],
       "9": [
         {
-          "Jahr": 2023,
           "Monat": 12,
-          "Tag": 9,
           "Wochentag_Num": 6,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -5859,9 +4949,7 @@
       ],
       "10": [
         {
-          "Jahr": 2023,
           "Monat": 12,
-          "Tag": 10,
           "Wochentag_Num": 7,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -5875,9 +4963,7 @@
       ],
       "11": [
         {
-          "Jahr": 2023,
           "Monat": 12,
-          "Tag": 11,
           "Wochentag_Num": 1,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -5891,9 +4977,7 @@
       ],
       "12": [
         {
-          "Jahr": 2023,
           "Monat": 12,
-          "Tag": 12,
           "Wochentag_Num": 2,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -5907,9 +4991,7 @@
       ],
       "13": [
         {
-          "Jahr": 2023,
           "Monat": 12,
-          "Tag": 13,
           "Wochentag_Num": 3,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -5923,9 +5005,7 @@
       ],
       "14": [
         {
-          "Jahr": 2023,
           "Monat": 12,
-          "Tag": 14,
           "Wochentag_Num": 4,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -5939,9 +5019,7 @@
       ],
       "15": [
         {
-          "Jahr": 2023,
           "Monat": 12,
-          "Tag": 15,
           "Wochentag_Num": 5,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -5955,9 +5033,7 @@
       ],
       "16": [
         {
-          "Jahr": 2023,
           "Monat": 12,
-          "Tag": 16,
           "Wochentag_Num": 6,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -5971,9 +5047,7 @@
       ],
       "17": [
         {
-          "Jahr": 2023,
           "Monat": 12,
-          "Tag": 17,
           "Wochentag_Num": 7,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -5987,9 +5061,7 @@
       ],
       "19": [
         {
-          "Jahr": 2023,
           "Monat": 12,
-          "Tag": 19,
           "Wochentag_Num": 2,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -6003,9 +5075,7 @@
       ],
       "20": [
         {
-          "Jahr": 2023,
           "Monat": 12,
-          "Tag": 20,
           "Wochentag_Num": 3,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -6019,9 +5089,7 @@
       ],
       "21": [
         {
-          "Jahr": 2023,
           "Monat": 12,
-          "Tag": 21,
           "Wochentag_Num": 4,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -6035,9 +5103,7 @@
       ],
       "22": [
         {
-          "Jahr": 2023,
           "Monat": 12,
-          "Tag": 22,
           "Wochentag_Num": 5,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -6051,9 +5117,7 @@
       ],
       "23": [
         {
-          "Jahr": 2023,
           "Monat": 12,
-          "Tag": 23,
           "Wochentag_Num": 6,
           "Feiertag": 0,
           "Ferientag": 1,
@@ -6067,9 +5131,7 @@
       ],
       "24": [
         {
-          "Jahr": 2023,
           "Monat": 12,
-          "Tag": 24,
           "Wochentag_Num": 7,
           "Feiertag": 0,
           "Ferientag": 1,
@@ -6083,9 +5145,7 @@
       ],
       "25": [
         {
-          "Jahr": 2023,
           "Monat": 12,
-          "Tag": 25,
           "Wochentag_Num": 1,
           "Feiertag": 1,
           "Ferientag": 1,
@@ -6099,9 +5159,7 @@
       ],
       "26": [
         {
-          "Jahr": 2023,
           "Monat": 12,
-          "Tag": 26,
           "Wochentag_Num": 2,
           "Feiertag": 1,
           "Ferientag": 1,
@@ -6115,9 +5173,7 @@
       ],
       "27": [
         {
-          "Jahr": 2023,
           "Monat": 12,
-          "Tag": 27,
           "Wochentag_Num": 3,
           "Feiertag": 0,
           "Ferientag": 1,
@@ -6131,9 +5187,7 @@
       ],
       "28": [
         {
-          "Jahr": 2023,
           "Monat": 12,
-          "Tag": 28,
           "Wochentag_Num": 4,
           "Feiertag": 0,
           "Ferientag": 1,
@@ -6147,9 +5201,7 @@
       ],
       "29": [
         {
-          "Jahr": 2023,
           "Monat": 12,
-          "Tag": 29,
           "Wochentag_Num": 5,
           "Feiertag": 0,
           "Ferientag": 1,
@@ -6163,9 +5215,7 @@
       ],
       "30": [
         {
-          "Jahr": 2023,
           "Monat": 12,
-          "Tag": 30,
           "Wochentag_Num": 6,
           "Feiertag": 0,
           "Ferientag": 1,
@@ -6179,9 +5229,7 @@
       ],
       "31": [
         {
-          "Jahr": 2023,
           "Monat": 12,
-          "Tag": 31,
           "Wochentag_Num": 7,
           "Feiertag": 0,
           "Ferientag": 1,
@@ -6199,9 +5247,7 @@
     "1": {
       "1": [
         {
-          "Jahr": 2024,
           "Monat": 1,
-          "Tag": 1,
           "Wochentag_Num": 1,
           "Feiertag": 1,
           "Ferientag": 1,
@@ -6215,9 +5261,7 @@
       ],
       "2": [
         {
-          "Jahr": 2024,
           "Monat": 1,
-          "Tag": 2,
           "Wochentag_Num": 2,
           "Feiertag": 0,
           "Ferientag": 1,
@@ -6231,9 +5275,7 @@
       ],
       "3": [
         {
-          "Jahr": 2024,
           "Monat": 1,
-          "Tag": 3,
           "Wochentag_Num": 3,
           "Feiertag": 0,
           "Ferientag": 1,
@@ -6247,9 +5289,7 @@
       ],
       "4": [
         {
-          "Jahr": 2024,
           "Monat": 1,
-          "Tag": 4,
           "Wochentag_Num": 4,
           "Feiertag": 0,
           "Ferientag": 1,
@@ -6263,9 +5303,7 @@
       ],
       "5": [
         {
-          "Jahr": 2024,
           "Monat": 1,
-          "Tag": 5,
           "Wochentag_Num": 5,
           "Feiertag": 0,
           "Ferientag": 1,
@@ -6279,9 +5317,7 @@
       ],
       "6": [
         {
-          "Jahr": 2024,
           "Monat": 1,
-          "Tag": 6,
           "Wochentag_Num": 6,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -6295,9 +5331,7 @@
       ],
       "10": [
         {
-          "Jahr": 2024,
           "Monat": 1,
-          "Tag": 10,
           "Wochentag_Num": 3,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -6311,9 +5345,7 @@
       ],
       "11": [
         {
-          "Jahr": 2024,
           "Monat": 1,
-          "Tag": 11,
           "Wochentag_Num": 4,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -6327,9 +5359,7 @@
       ],
       "12": [
         {
-          "Jahr": 2024,
           "Monat": 1,
-          "Tag": 12,
           "Wochentag_Num": 5,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -6343,9 +5373,7 @@
       ],
       "13": [
         {
-          "Jahr": 2024,
           "Monat": 1,
-          "Tag": 13,
           "Wochentag_Num": 6,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -6359,9 +5387,7 @@
       ],
       "14": [
         {
-          "Jahr": 2024,
           "Monat": 1,
-          "Tag": 14,
           "Wochentag_Num": 7,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -6375,9 +5401,7 @@
       ],
       "16": [
         {
-          "Jahr": 2024,
           "Monat": 1,
-          "Tag": 16,
           "Wochentag_Num": 2,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -6391,9 +5415,7 @@
       ],
       "17": [
         {
-          "Jahr": 2024,
           "Monat": 1,
-          "Tag": 17,
           "Wochentag_Num": 3,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -6407,9 +5429,7 @@
       ],
       "19": [
         {
-          "Jahr": 2024,
           "Monat": 1,
-          "Tag": 19,
           "Wochentag_Num": 5,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -6423,9 +5443,7 @@
       ],
       "21": [
         {
-          "Jahr": 2024,
           "Monat": 1,
-          "Tag": 21,
           "Wochentag_Num": 7,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -6439,9 +5457,7 @@
       ],
       "22": [
         {
-          "Jahr": 2024,
           "Monat": 1,
-          "Tag": 22,
           "Wochentag_Num": 1,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -6455,9 +5471,7 @@
       ],
       "23": [
         {
-          "Jahr": 2024,
           "Monat": 1,
-          "Tag": 23,
           "Wochentag_Num": 2,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -6471,9 +5485,7 @@
       ],
       "24": [
         {
-          "Jahr": 2024,
           "Monat": 1,
-          "Tag": 24,
           "Wochentag_Num": 3,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -6487,9 +5499,7 @@
       ],
       "25": [
         {
-          "Jahr": 2024,
           "Monat": 1,
-          "Tag": 25,
           "Wochentag_Num": 4,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -6503,9 +5513,7 @@
       ],
       "27": [
         {
-          "Jahr": 2024,
           "Monat": 1,
-          "Tag": 27,
           "Wochentag_Num": 6,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -6519,9 +5527,7 @@
       ],
       "28": [
         {
-          "Jahr": 2024,
           "Monat": 1,
-          "Tag": 28,
           "Wochentag_Num": 7,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -6535,9 +5541,7 @@
       ],
       "29": [
         {
-          "Jahr": 2024,
           "Monat": 1,
-          "Tag": 29,
           "Wochentag_Num": 1,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -6551,9 +5555,7 @@
       ],
       "31": [
         {
-          "Jahr": 2024,
           "Monat": 1,
-          "Tag": 31,
           "Wochentag_Num": 3,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -6569,9 +5571,7 @@
     "2": {
       "1": [
         {
-          "Jahr": 2024,
           "Monat": 2,
-          "Tag": 1,
           "Wochentag_Num": 4,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -6585,9 +5585,7 @@
       ],
       "2": [
         {
-          "Jahr": 2024,
           "Monat": 2,
-          "Tag": 2,
           "Wochentag_Num": 5,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -6601,9 +5599,7 @@
       ],
       "3": [
         {
-          "Jahr": 2024,
           "Monat": 2,
-          "Tag": 3,
           "Wochentag_Num": 6,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -6617,9 +5613,7 @@
       ],
       "4": [
         {
-          "Jahr": 2024,
           "Monat": 2,
-          "Tag": 4,
           "Wochentag_Num": 7,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -6633,9 +5627,7 @@
       ],
       "5": [
         {
-          "Jahr": 2024,
           "Monat": 2,
-          "Tag": 5,
           "Wochentag_Num": 1,
           "Feiertag": 0,
           "Ferientag": 1,
@@ -6649,9 +5641,7 @@
       ],
       "6": [
         {
-          "Jahr": 2024,
           "Monat": 2,
-          "Tag": 6,
           "Wochentag_Num": 2,
           "Feiertag": 0,
           "Ferientag": 1,
@@ -6665,9 +5655,7 @@
       ],
       "8": [
         {
-          "Jahr": 2024,
           "Monat": 2,
-          "Tag": 8,
           "Wochentag_Num": 4,
           "Feiertag": 0,
           "Ferientag": 1,
@@ -6681,9 +5669,7 @@
       ],
       "9": [
         {
-          "Jahr": 2024,
           "Monat": 2,
-          "Tag": 9,
           "Wochentag_Num": 5,
           "Feiertag": 0,
           "Ferientag": 1,
@@ -6697,9 +5683,7 @@
       ],
       "10": [
         {
-          "Jahr": 2024,
           "Monat": 2,
-          "Tag": 10,
           "Wochentag_Num": 6,
           "Feiertag": 0,
           "Ferientag": 1,
@@ -6713,9 +5697,7 @@
       ],
       "12": [
         {
-          "Jahr": 2024,
           "Monat": 2,
-          "Tag": 12,
           "Wochentag_Num": 1,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -6729,9 +5711,7 @@
       ],
       "13": [
         {
-          "Jahr": 2024,
           "Monat": 2,
-          "Tag": 13,
           "Wochentag_Num": 2,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -6745,9 +5725,7 @@
       ],
       "14": [
         {
-          "Jahr": 2024,
           "Monat": 2,
-          "Tag": 14,
           "Wochentag_Num": 3,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -6761,9 +5739,7 @@
       ],
       "15": [
         {
-          "Jahr": 2024,
           "Monat": 2,
-          "Tag": 15,
           "Wochentag_Num": 4,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -6777,9 +5753,7 @@
       ],
       "16": [
         {
-          "Jahr": 2024,
           "Monat": 2,
-          "Tag": 16,
           "Wochentag_Num": 5,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -6793,9 +5767,7 @@
       ],
       "17": [
         {
-          "Jahr": 2024,
           "Monat": 2,
-          "Tag": 17,
           "Wochentag_Num": 6,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -6809,9 +5781,7 @@
       ],
       "19": [
         {
-          "Jahr": 2024,
           "Monat": 2,
-          "Tag": 19,
           "Wochentag_Num": 1,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -6825,9 +5795,7 @@
       ],
       "20": [
         {
-          "Jahr": 2024,
           "Monat": 2,
-          "Tag": 20,
           "Wochentag_Num": 2,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -6841,9 +5809,7 @@
       ],
       "21": [
         {
-          "Jahr": 2024,
           "Monat": 2,
-          "Tag": 21,
           "Wochentag_Num": 3,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -6857,9 +5823,7 @@
       ],
       "24": [
         {
-          "Jahr": 2024,
           "Monat": 2,
-          "Tag": 24,
           "Wochentag_Num": 6,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -6873,9 +5837,7 @@
       ],
       "25": [
         {
-          "Jahr": 2024,
           "Monat": 2,
-          "Tag": 25,
           "Wochentag_Num": 7,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -6889,9 +5851,7 @@
       ],
       "27": [
         {
-          "Jahr": 2024,
           "Monat": 2,
-          "Tag": 27,
           "Wochentag_Num": 2,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -6905,9 +5865,7 @@
       ],
       "28": [
         {
-          "Jahr": 2024,
           "Monat": 2,
-          "Tag": 28,
           "Wochentag_Num": 3,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -6921,9 +5879,7 @@
       ],
       "29": [
         {
-          "Jahr": 2024,
           "Monat": 2,
-          "Tag": 29,
           "Wochentag_Num": 4,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -6939,9 +5895,7 @@
     "3": {
       "1": [
         {
-          "Jahr": 2024,
           "Monat": 3,
-          "Tag": 1,
           "Wochentag_Num": 5,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -6955,9 +5909,7 @@
       ],
       "2": [
         {
-          "Jahr": 2024,
           "Monat": 3,
-          "Tag": 2,
           "Wochentag_Num": 6,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -6971,9 +5923,7 @@
       ],
       "3": [
         {
-          "Jahr": 2024,
           "Monat": 3,
-          "Tag": 3,
           "Wochentag_Num": 7,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -6987,9 +5937,7 @@
       ],
       "4": [
         {
-          "Jahr": 2024,
           "Monat": 3,
-          "Tag": 4,
           "Wochentag_Num": 1,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -7003,9 +5951,7 @@
       ],
       "6": [
         {
-          "Jahr": 2024,
           "Monat": 3,
-          "Tag": 6,
           "Wochentag_Num": 3,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -7019,9 +5965,7 @@
       ],
       "8": [
         {
-          "Jahr": 2024,
           "Monat": 3,
-          "Tag": 8,
           "Wochentag_Num": 5,
           "Feiertag": 1,
           "Ferientag": 0,
@@ -7035,9 +5979,7 @@
       ],
       "9": [
         {
-          "Jahr": 2024,
           "Monat": 3,
-          "Tag": 9,
           "Wochentag_Num": 6,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -7051,9 +5993,7 @@
       ],
       "10": [
         {
-          "Jahr": 2024,
           "Monat": 3,
-          "Tag": 10,
           "Wochentag_Num": 7,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -7067,9 +6007,7 @@
       ],
       "11": [
         {
-          "Jahr": 2024,
           "Monat": 3,
-          "Tag": 11,
           "Wochentag_Num": 1,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -7083,9 +6021,7 @@
       ],
       "12": [
         {
-          "Jahr": 2024,
           "Monat": 3,
-          "Tag": 12,
           "Wochentag_Num": 2,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -7099,9 +6035,7 @@
       ],
       "13": [
         {
-          "Jahr": 2024,
           "Monat": 3,
-          "Tag": 13,
           "Wochentag_Num": 3,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -7115,9 +6049,7 @@
       ],
       "14": [
         {
-          "Jahr": 2024,
           "Monat": 3,
-          "Tag": 14,
           "Wochentag_Num": 4,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -7131,9 +6063,7 @@
       ],
       "15": [
         {
-          "Jahr": 2024,
           "Monat": 3,
-          "Tag": 15,
           "Wochentag_Num": 5,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -7147,9 +6077,7 @@
       ],
       "16": [
         {
-          "Jahr": 2024,
           "Monat": 3,
-          "Tag": 16,
           "Wochentag_Num": 6,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -7163,9 +6091,7 @@
       ],
       "17": [
         {
-          "Jahr": 2024,
           "Monat": 3,
-          "Tag": 17,
           "Wochentag_Num": 7,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -7179,9 +6105,7 @@
       ],
       "18": [
         {
-          "Jahr": 2024,
           "Monat": 3,
-          "Tag": 18,
           "Wochentag_Num": 1,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -7195,9 +6119,7 @@
       ],
       "20": [
         {
-          "Jahr": 2024,
           "Monat": 3,
-          "Tag": 20,
           "Wochentag_Num": 3,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -7211,9 +6133,7 @@
       ],
       "21": [
         {
-          "Jahr": 2024,
           "Monat": 3,
-          "Tag": 21,
           "Wochentag_Num": 4,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -7227,9 +6147,7 @@
       ],
       "22": [
         {
-          "Jahr": 2024,
           "Monat": 3,
-          "Tag": 22,
           "Wochentag_Num": 5,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -7243,9 +6161,7 @@
       ],
       "23": [
         {
-          "Jahr": 2024,
           "Monat": 3,
-          "Tag": 23,
           "Wochentag_Num": 6,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -7259,9 +6175,7 @@
       ],
       "25": [
         {
-          "Jahr": 2024,
           "Monat": 3,
-          "Tag": 25,
           "Wochentag_Num": 1,
           "Feiertag": 0,
           "Ferientag": 1,
@@ -7275,9 +6189,7 @@
       ],
       "26": [
         {
-          "Jahr": 2024,
           "Monat": 3,
-          "Tag": 26,
           "Wochentag_Num": 2,
           "Feiertag": 0,
           "Ferientag": 1,
@@ -7291,9 +6203,7 @@
       ],
       "27": [
         {
-          "Jahr": 2024,
           "Monat": 3,
-          "Tag": 27,
           "Wochentag_Num": 3,
           "Feiertag": 0,
           "Ferientag": 1,
@@ -7307,9 +6217,7 @@
       ],
       "28": [
         {
-          "Jahr": 2024,
           "Monat": 3,
-          "Tag": 28,
           "Wochentag_Num": 4,
           "Feiertag": 0,
           "Ferientag": 1,
@@ -7323,9 +6231,7 @@
       ],
       "30": [
         {
-          "Jahr": 2024,
           "Monat": 3,
-          "Tag": 30,
           "Wochentag_Num": 6,
           "Feiertag": 0,
           "Ferientag": 1,
@@ -7339,9 +6245,7 @@
       ],
       "31": [
         {
-          "Jahr": 2024,
           "Monat": 3,
-          "Tag": 31,
           "Wochentag_Num": 7,
           "Feiertag": 0,
           "Ferientag": 1,
@@ -7357,9 +6261,7 @@
     "4": {
       "1": [
         {
-          "Jahr": 2024,
           "Monat": 4,
-          "Tag": 1,
           "Wochentag_Num": 1,
           "Feiertag": 1,
           "Ferientag": 1,
@@ -7373,9 +6275,7 @@
       ],
       "3": [
         {
-          "Jahr": 2024,
           "Monat": 4,
-          "Tag": 3,
           "Wochentag_Num": 3,
           "Feiertag": 0,
           "Ferientag": 1,
@@ -7389,9 +6289,7 @@
       ],
       "5": [
         {
-          "Jahr": 2024,
           "Monat": 4,
-          "Tag": 5,
           "Wochentag_Num": 5,
           "Feiertag": 0,
           "Ferientag": 1,
@@ -7405,9 +6303,7 @@
       ],
       "6": [
         {
-          "Jahr": 2024,
           "Monat": 4,
-          "Tag": 6,
           "Wochentag_Num": 6,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -7421,9 +6317,7 @@
       ],
       "8": [
         {
-          "Jahr": 2024,
           "Monat": 4,
-          "Tag": 8,
           "Wochentag_Num": 1,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -7437,9 +6331,7 @@
       ],
       "9": [
         {
-          "Jahr": 2024,
           "Monat": 4,
-          "Tag": 9,
           "Wochentag_Num": 2,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -7453,9 +6345,7 @@
       ],
       "10": [
         {
-          "Jahr": 2024,
           "Monat": 4,
-          "Tag": 10,
           "Wochentag_Num": 3,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -7469,9 +6359,7 @@
       ],
       "11": [
         {
-          "Jahr": 2024,
           "Monat": 4,
-          "Tag": 11,
           "Wochentag_Num": 4,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -7485,9 +6373,7 @@
       ],
       "12": [
         {
-          "Jahr": 2024,
           "Monat": 4,
-          "Tag": 12,
           "Wochentag_Num": 5,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -7501,9 +6387,7 @@
       ],
       "13": [
         {
-          "Jahr": 2024,
           "Monat": 4,
-          "Tag": 13,
           "Wochentag_Num": 6,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -7517,9 +6401,7 @@
       ],
       "14": [
         {
-          "Jahr": 2024,
           "Monat": 4,
-          "Tag": 14,
           "Wochentag_Num": 7,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -7533,9 +6415,7 @@
       ],
       "15": [
         {
-          "Jahr": 2024,
           "Monat": 4,
-          "Tag": 15,
           "Wochentag_Num": 1,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -7549,9 +6429,7 @@
       ],
       "16": [
         {
-          "Jahr": 2024,
           "Monat": 4,
-          "Tag": 16,
           "Wochentag_Num": 2,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -7565,9 +6443,7 @@
       ],
       "17": [
         {
-          "Jahr": 2024,
           "Monat": 4,
-          "Tag": 17,
           "Wochentag_Num": 3,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -7581,9 +6457,7 @@
       ],
       "18": [
         {
-          "Jahr": 2024,
           "Monat": 4,
-          "Tag": 18,
           "Wochentag_Num": 4,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -7597,9 +6471,7 @@
       ],
       "19": [
         {
-          "Jahr": 2024,
           "Monat": 4,
-          "Tag": 19,
           "Wochentag_Num": 5,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -7613,9 +6485,7 @@
       ],
       "20": [
         {
-          "Jahr": 2024,
           "Monat": 4,
-          "Tag": 20,
           "Wochentag_Num": 6,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -7629,9 +6499,7 @@
       ],
       "22": [
         {
-          "Jahr": 2024,
           "Monat": 4,
-          "Tag": 22,
           "Wochentag_Num": 1,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -7645,9 +6513,7 @@
       ],
       "24": [
         {
-          "Jahr": 2024,
           "Monat": 4,
-          "Tag": 24,
           "Wochentag_Num": 3,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -7661,9 +6527,7 @@
       ],
       "25": [
         {
-          "Jahr": 2024,
           "Monat": 4,
-          "Tag": 25,
           "Wochentag_Num": 4,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -7677,9 +6541,7 @@
       ],
       "26": [
         {
-          "Jahr": 2024,
           "Monat": 4,
-          "Tag": 26,
           "Wochentag_Num": 5,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -7693,9 +6555,7 @@
       ],
       "27": [
         {
-          "Jahr": 2024,
           "Monat": 4,
-          "Tag": 27,
           "Wochentag_Num": 6,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -7709,9 +6569,7 @@
       ],
       "28": [
         {
-          "Jahr": 2024,
           "Monat": 4,
-          "Tag": 28,
           "Wochentag_Num": 7,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -7725,9 +6583,7 @@
       ],
       "29": [
         {
-          "Jahr": 2024,
           "Monat": 4,
-          "Tag": 29,
           "Wochentag_Num": 1,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -7741,9 +6597,7 @@
       ],
       "30": [
         {
-          "Jahr": 2024,
           "Monat": 4,
-          "Tag": 30,
           "Wochentag_Num": 2,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -7759,9 +6613,7 @@
     "5": {
       "1": [
         {
-          "Jahr": 2024,
           "Monat": 5,
-          "Tag": 1,
           "Wochentag_Num": 3,
           "Feiertag": 1,
           "Ferientag": 0,
@@ -7775,9 +6627,7 @@
       ],
       "2": [
         {
-          "Jahr": 2024,
           "Monat": 5,
-          "Tag": 2,
           "Wochentag_Num": 4,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -7791,9 +6641,7 @@
       ],
       "3": [
         {
-          "Jahr": 2024,
           "Monat": 5,
-          "Tag": 3,
           "Wochentag_Num": 5,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -7807,9 +6655,7 @@
       ],
       "4": [
         {
-          "Jahr": 2024,
           "Monat": 5,
-          "Tag": 4,
           "Wochentag_Num": 6,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -7823,9 +6669,7 @@
       ],
       "6": [
         {
-          "Jahr": 2024,
           "Monat": 5,
-          "Tag": 6,
           "Wochentag_Num": 1,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -7839,9 +6683,7 @@
       ],
       "8": [
         {
-          "Jahr": 2024,
           "Monat": 5,
-          "Tag": 8,
           "Wochentag_Num": 3,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -7855,9 +6697,7 @@
       ],
       "9": [
         {
-          "Jahr": 2024,
           "Monat": 5,
-          "Tag": 9,
           "Wochentag_Num": 4,
           "Feiertag": 1,
           "Ferientag": 0,
@@ -7871,9 +6711,7 @@
       ],
       "10": [
         {
-          "Jahr": 2024,
           "Monat": 5,
-          "Tag": 10,
           "Wochentag_Num": 5,
           "Feiertag": 0,
           "Ferientag": 1,
@@ -7887,9 +6725,7 @@
       ],
       "11": [
         {
-          "Jahr": 2024,
           "Monat": 5,
-          "Tag": 11,
           "Wochentag_Num": 6,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -7903,9 +6739,7 @@
       ],
       "12": [
         {
-          "Jahr": 2024,
           "Monat": 5,
-          "Tag": 12,
           "Wochentag_Num": 7,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -7919,9 +6753,7 @@
       ],
       "13": [
         {
-          "Jahr": 2024,
           "Monat": 5,
-          "Tag": 13,
           "Wochentag_Num": 1,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -7935,9 +6767,7 @@
       ],
       "14": [
         {
-          "Jahr": 2024,
           "Monat": 5,
-          "Tag": 14,
           "Wochentag_Num": 2,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -7951,9 +6781,7 @@
       ],
       "15": [
         {
-          "Jahr": 2024,
           "Monat": 5,
-          "Tag": 15,
           "Wochentag_Num": 3,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -7967,9 +6795,7 @@
       ],
       "16": [
         {
-          "Jahr": 2024,
           "Monat": 5,
-          "Tag": 16,
           "Wochentag_Num": 4,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -7983,9 +6809,7 @@
       ],
       "17": [
         {
-          "Jahr": 2024,
           "Monat": 5,
-          "Tag": 17,
           "Wochentag_Num": 5,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -7999,9 +6823,7 @@
       ],
       "18": [
         {
-          "Jahr": 2024,
           "Monat": 5,
-          "Tag": 18,
           "Wochentag_Num": 6,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -8015,9 +6837,7 @@
       ],
       "19": [
         {
-          "Jahr": 2024,
           "Monat": 5,
-          "Tag": 19,
           "Wochentag_Num": 7,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -8031,9 +6851,7 @@
       ],
       "20": [
         {
-          "Jahr": 2024,
           "Monat": 5,
-          "Tag": 20,
           "Wochentag_Num": 1,
           "Feiertag": 1,
           "Ferientag": 0,
@@ -8047,9 +6865,7 @@
       ],
       "21": [
         {
-          "Jahr": 2024,
           "Monat": 5,
-          "Tag": 21,
           "Wochentag_Num": 2,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -8063,9 +6879,7 @@
       ],
       "22": [
         {
-          "Jahr": 2024,
           "Monat": 5,
-          "Tag": 22,
           "Wochentag_Num": 3,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -8079,9 +6893,7 @@
       ],
       "23": [
         {
-          "Jahr": 2024,
           "Monat": 5,
-          "Tag": 23,
           "Wochentag_Num": 4,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -8095,9 +6907,7 @@
       ],
       "24": [
         {
-          "Jahr": 2024,
           "Monat": 5,
-          "Tag": 24,
           "Wochentag_Num": 5,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -8111,9 +6921,7 @@
       ],
       "25": [
         {
-          "Jahr": 2024,
           "Monat": 5,
-          "Tag": 25,
           "Wochentag_Num": 6,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -8127,9 +6935,7 @@
       ],
       "26": [
         {
-          "Jahr": 2024,
           "Monat": 5,
-          "Tag": 26,
           "Wochentag_Num": 7,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -8143,9 +6949,7 @@
       ],
       "27": [
         {
-          "Jahr": 2024,
           "Monat": 5,
-          "Tag": 27,
           "Wochentag_Num": 1,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -8159,9 +6963,7 @@
       ],
       "28": [
         {
-          "Jahr": 2024,
           "Monat": 5,
-          "Tag": 28,
           "Wochentag_Num": 2,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -8175,9 +6977,7 @@
       ],
       "30": [
         {
-          "Jahr": 2024,
           "Monat": 5,
-          "Tag": 30,
           "Wochentag_Num": 4,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -8191,9 +6991,7 @@
       ],
       "31": [
         {
-          "Jahr": 2024,
           "Monat": 5,
-          "Tag": 31,
           "Wochentag_Num": 5,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -8209,9 +7007,7 @@
     "6": {
       "1": [
         {
-          "Jahr": 2024,
           "Monat": 6,
-          "Tag": 1,
           "Wochentag_Num": 6,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -8225,9 +7021,7 @@
       ],
       "2": [
         {
-          "Jahr": 2024,
           "Monat": 6,
-          "Tag": 2,
           "Wochentag_Num": 7,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -8241,9 +7035,7 @@
       ],
       "3": [
         {
-          "Jahr": 2024,
           "Monat": 6,
-          "Tag": 3,
           "Wochentag_Num": 1,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -8257,9 +7049,7 @@
       ],
       "4": [
         {
-          "Jahr": 2024,
           "Monat": 6,
-          "Tag": 4,
           "Wochentag_Num": 2,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -8273,9 +7063,7 @@
       ],
       "5": [
         {
-          "Jahr": 2024,
           "Monat": 6,
-          "Tag": 5,
           "Wochentag_Num": 3,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -8289,9 +7077,7 @@
       ],
       "6": [
         {
-          "Jahr": 2024,
           "Monat": 6,
-          "Tag": 6,
           "Wochentag_Num": 4,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -8305,9 +7091,7 @@
       ],
       "7": [
         {
-          "Jahr": 2024,
           "Monat": 6,
-          "Tag": 7,
           "Wochentag_Num": 5,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -8321,9 +7105,7 @@
       ],
       "9": [
         {
-          "Jahr": 2024,
           "Monat": 6,
-          "Tag": 9,
           "Wochentag_Num": 7,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -8337,9 +7119,7 @@
       ],
       "10": [
         {
-          "Jahr": 2024,
           "Monat": 6,
-          "Tag": 10,
           "Wochentag_Num": 1,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -8353,9 +7133,7 @@
       ],
       "12": [
         {
-          "Jahr": 2024,
           "Monat": 6,
-          "Tag": 12,
           "Wochentag_Num": 3,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -8369,9 +7147,7 @@
       ],
       "13": [
         {
-          "Jahr": 2024,
           "Monat": 6,
-          "Tag": 13,
           "Wochentag_Num": 4,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -8385,9 +7161,7 @@
       ],
       "14": [
         {
-          "Jahr": 2024,
           "Monat": 6,
-          "Tag": 14,
           "Wochentag_Num": 5,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -8401,9 +7175,7 @@
       ],
       "15": [
         {
-          "Jahr": 2024,
           "Monat": 6,
-          "Tag": 15,
           "Wochentag_Num": 6,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -8417,9 +7189,7 @@
       ],
       "16": [
         {
-          "Jahr": 2024,
           "Monat": 6,
-          "Tag": 16,
           "Wochentag_Num": 7,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -8433,9 +7203,7 @@
       ],
       "17": [
         {
-          "Jahr": 2024,
           "Monat": 6,
-          "Tag": 17,
           "Wochentag_Num": 1,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -8449,9 +7217,7 @@
       ],
       "18": [
         {
-          "Jahr": 2024,
           "Monat": 6,
-          "Tag": 18,
           "Wochentag_Num": 2,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -8465,9 +7231,7 @@
       ],
       "19": [
         {
-          "Jahr": 2024,
           "Monat": 6,
-          "Tag": 19,
           "Wochentag_Num": 3,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -8481,9 +7245,7 @@
       ],
       "20": [
         {
-          "Jahr": 2024,
           "Monat": 6,
-          "Tag": 20,
           "Wochentag_Num": 4,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -8497,9 +7259,7 @@
       ],
       "21": [
         {
-          "Jahr": 2024,
           "Monat": 6,
-          "Tag": 21,
           "Wochentag_Num": 5,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -8513,9 +7273,7 @@
       ],
       "22": [
         {
-          "Jahr": 2024,
           "Monat": 6,
-          "Tag": 22,
           "Wochentag_Num": 6,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -8529,9 +7287,7 @@
       ],
       "23": [
         {
-          "Jahr": 2024,
           "Monat": 6,
-          "Tag": 23,
           "Wochentag_Num": 7,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -8545,9 +7301,7 @@
       ],
       "25": [
         {
-          "Jahr": 2024,
           "Monat": 6,
-          "Tag": 25,
           "Wochentag_Num": 2,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -8561,9 +7315,7 @@
       ],
       "27": [
         {
-          "Jahr": 2024,
           "Monat": 6,
-          "Tag": 27,
           "Wochentag_Num": 4,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -8577,9 +7329,7 @@
       ],
       "28": [
         {
-          "Jahr": 2024,
           "Monat": 6,
-          "Tag": 28,
           "Wochentag_Num": 5,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -8593,9 +7343,7 @@
       ],
       "29": [
         {
-          "Jahr": 2024,
           "Monat": 6,
-          "Tag": 29,
           "Wochentag_Num": 6,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -8609,9 +7357,7 @@
       ],
       "30": [
         {
-          "Jahr": 2024,
           "Monat": 6,
-          "Tag": 30,
           "Wochentag_Num": 7,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -8627,9 +7373,7 @@
     "7": {
       "1": [
         {
-          "Jahr": 2024,
           "Monat": 7,
-          "Tag": 1,
           "Wochentag_Num": 1,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -8643,9 +7387,7 @@
       ],
       "2": [
         {
-          "Jahr": 2024,
           "Monat": 7,
-          "Tag": 2,
           "Wochentag_Num": 2,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -8659,9 +7401,7 @@
       ],
       "3": [
         {
-          "Jahr": 2024,
           "Monat": 7,
-          "Tag": 3,
           "Wochentag_Num": 3,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -8675,9 +7415,7 @@
       ],
       "5": [
         {
-          "Jahr": 2024,
           "Monat": 7,
-          "Tag": 5,
           "Wochentag_Num": 5,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -8691,9 +7429,7 @@
       ],
       "6": [
         {
-          "Jahr": 2024,
           "Monat": 7,
-          "Tag": 6,
           "Wochentag_Num": 6,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -8707,9 +7443,7 @@
       ],
       "9": [
         {
-          "Jahr": 2024,
           "Monat": 7,
-          "Tag": 9,
           "Wochentag_Num": 2,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -8723,9 +7457,7 @@
       ],
       "10": [
         {
-          "Jahr": 2024,
           "Monat": 7,
-          "Tag": 10,
           "Wochentag_Num": 3,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -8739,9 +7471,7 @@
       ],
       "11": [
         {
-          "Jahr": 2024,
           "Monat": 7,
-          "Tag": 11,
           "Wochentag_Num": 4,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -8755,9 +7485,7 @@
       ],
       "12": [
         {
-          "Jahr": 2024,
           "Monat": 7,
-          "Tag": 12,
           "Wochentag_Num": 5,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -8771,9 +7499,7 @@
       ],
       "13": [
         {
-          "Jahr": 2024,
           "Monat": 7,
-          "Tag": 13,
           "Wochentag_Num": 6,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -8787,9 +7513,7 @@
       ],
       "14": [
         {
-          "Jahr": 2024,
           "Monat": 7,
-          "Tag": 14,
           "Wochentag_Num": 7,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -8803,9 +7527,7 @@
       ],
       "15": [
         {
-          "Jahr": 2024,
           "Monat": 7,
-          "Tag": 15,
           "Wochentag_Num": 1,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -8819,9 +7541,7 @@
       ],
       "16": [
         {
-          "Jahr": 2024,
           "Monat": 7,
-          "Tag": 16,
           "Wochentag_Num": 2,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -8835,9 +7555,7 @@
       ],
       "17": [
         {
-          "Jahr": 2024,
           "Monat": 7,
-          "Tag": 17,
           "Wochentag_Num": 3,
           "Feiertag": 0,
           "Ferientag": 0,
@@ -8851,9 +7569,7 @@
       ],
       "18": [
         {
-          "Jahr": 2024,
           "Monat": 7,
-          "Tag": 18,
           "Wochentag_Num": 4,
           "Feiertag": 0,
           "Ferientag": 1,
@@ -8867,9 +7583,7 @@
       ],
       "19": [
         {
-          "Jahr": 2024,
           "Monat": 7,
-          "Tag": 19,
           "Wochentag_Num": 5,
           "Feiertag": 0,
           "Ferientag": 1,
@@ -8883,9 +7597,7 @@
       ],
       "20": [
         {
-          "Jahr": 2024,
           "Monat": 7,
-          "Tag": 20,
           "Wochentag_Num": 6,
           "Feiertag": 0,
           "Ferientag": 1,
@@ -8899,9 +7611,7 @@
       ],
       "21": [
         {
-          "Jahr": 2024,
           "Monat": 7,
-          "Tag": 21,
           "Wochentag_Num": 7,
           "Feiertag": 0,
           "Ferientag": 1,
@@ -8915,9 +7625,7 @@
       ],
       "22": [
         {
-          "Jahr": 2024,
           "Monat": 7,
-          "Tag": 22,
           "Wochentag_Num": 1,
           "Feiertag": 0,
           "Ferientag": 1,
@@ -8931,9 +7639,7 @@
       ],
       "24": [
         {
-          "Jahr": 2024,
           "Monat": 7,
-          "Tag": 24,
           "Wochentag_Num": 3,
           "Feiertag": 0,
           "Ferientag": 1,
@@ -8947,9 +7653,7 @@
       ],
       "26": [
         {
-          "Jahr": 2024,
           "Monat": 7,
-          "Tag": 26,
           "Wochentag_Num": 5,
           "Feiertag": 0,
           "Ferientag": 1,
@@ -8963,9 +7667,7 @@
       ],
       "28": [
         {
-          "Jahr": 2024,
           "Monat": 7,
-          "Tag": 28,
           "Wochentag_Num": 7,
           "Feiertag": 0,
           "Ferientag": 1,
@@ -8979,9 +7681,7 @@
       ],
       "29": [
         {
-          "Jahr": 2024,
           "Monat": 7,
-          "Tag": 29,
           "Wochentag_Num": 1,
           "Feiertag": 0,
           "Ferientag": 1,
@@ -8995,9 +7695,7 @@
       ],
       "31": [
         {
-          "Jahr": 2024,
           "Monat": 7,
-          "Tag": 31,
           "Wochentag_Num": 3,
           "Feiertag": 0,
           "Ferientag": 1,
@@ -9013,9 +7711,7 @@
     "8": {
       "1": [
         {
-          "Jahr": 2024,
           "Monat": 8,
-          "Tag": 1,
           "Wochentag_Num": 4,
           "Feiertag": 0,
           "Ferientag": 1,
@@ -9029,9 +7725,7 @@
       ],
       "2": [
         {
-          "Jahr": 2024,
           "Monat": 8,
-          "Tag": 2,
           "Wochentag_Num": 5,
           "Feiertag": 0,
           "Ferientag": 1,
@@ -9045,9 +7739,7 @@
       ],
       "3": [
         {
-          "Jahr": 2024,
           "Monat": 8,
-          "Tag": 3,
           "Wochentag_Num": 6,
           "Feiertag": 0,
           "Ferientag": 1,
@@ -9061,9 +7753,7 @@
       ],
       "4": [
         {
-          "Jahr": 2024,
           "Monat": 8,
-          "Tag": 4,
           "Wochentag_Num": 7,
           "Feiertag": 0,
           "Ferientag": 1,
@@ -9077,9 +7767,7 @@
       ],
       "5": [
         {
-          "Jahr": 2024,
           "Monat": 8,
-          "Tag": 5,
           "Wochentag_Num": 1,
           "Feiertag": 0,
           "Ferientag": 1,
@@ -9093,9 +7781,7 @@
       ],
       "6": [
         {
-          "Jahr": 2024,
           "Monat": 8,
-          "Tag": 6,
           "Wochentag_Num": 2,
           "Feiertag": 0,
           "Ferientag": 1,
@@ -9109,9 +7795,7 @@
       ],
       "7": [
         {
-          "Jahr": 2024,
           "Monat": 8,
-          "Tag": 7,
           "Wochentag_Num": 3,
           "Feiertag": 0,
           "Ferientag": 1,
@@ -9125,9 +7809,7 @@
       ],
       "8": [
         {
-          "Jahr": 2024,
           "Monat": 8,
-          "Tag": 8,
           "Wochentag_Num": 4,
           "Feiertag": 0,
           "Ferientag": 1,
@@ -9141,9 +7823,7 @@
       ],
       "9": [
         {
-          "Jahr": 2024,
           "Monat": 8,
-          "Tag": 9,
           "Wochentag_Num": 5,
           "Feiertag": 0,
           "Ferientag": 1,
@@ -9157,9 +7837,7 @@
       ],
       "10": [
         {
-          "Jahr": 2024,
           "Monat": 8,
-          "Tag": 10,
           "Wochentag_Num": 6,
           "Feiertag": 0,
           "Ferientag": 1,
@@ -9173,9 +7851,7 @@
       ],
       "11": [
         {
-          "Jahr": 2024,
           "Monat": 8,
-          "Tag": 11,
           "Wochentag_Num": 7,
           "Feiertag": 0,
           "Ferientag": 1,
@@ -9189,9 +7865,7 @@
       ],
       "13": [
         {
-          "Jahr": 2024,
           "Monat": 8,
-          "Tag": 13,
           "Wochentag_Num": 2,
           "Feiertag": 0,
           "Ferientag": 1,
@@ -9205,9 +7879,7 @@
       ],
       "16": [
         {
-          "Jahr": 2024,
           "Monat": 8,
-          "Tag": 16,
           "Wochentag_Num": 5,
           "Feiertag": 0,
           "Ferientag": 1,
@@ -9221,9 +7893,7 @@
       ],
       "17": [
         {
-          "Jahr": 2024,
           "Monat": 8,
-          "Tag": 17,
           "Wochentag_Num": 6,
           "Feiertag": 0,
           "Ferientag": 1,
@@ -9237,9 +7907,7 @@
       ],
       "18": [
         {
-          "Jahr": 2024,
           "Monat": 8,
-          "Tag": 18,
           "Wochentag_Num": 7,
           "Feiertag": 0,
           "Ferientag": 1,
@@ -9253,9 +7921,7 @@
       ],
       "20": [
         {
-          "Jahr": 2024,
           "Monat": 8,
-          "Tag": 20,
           "Wochentag_Num": 2,
           "Feiertag": 0,
           "Ferientag": 1,
@@ -9269,9 +7935,7 @@
       ],
       "21": [
         {
-          "Jahr": 2024,
           "Monat": 8,
-          "Tag": 21,
           "Wochentag_Num": 3,
           "Feiertag": 0,
           "Ferientag": 1,
@@ -9285,9 +7949,7 @@
       ],
       "23": [
         {
-          "Jahr": 2024,
           "Monat": 8,
-          "Tag": 23,
           "Wochentag_Num": 5,
           "Feiertag": 0,
           "Ferientag": 1,
@@ -9301,9 +7963,7 @@
       ],
       "24": [
         {
-          "Jahr": 2024,
           "Monat": 8,
-          "Tag": 24,
           "Wochentag_Num": 6,
           "Feiertag": 0,
           "Ferientag": 1,
@@ -9317,9 +7977,7 @@
       ],
       "25": [
         {
-          "Jahr": 2024,
           "Monat": 8,
-          "Tag": 25,
           "Wochentag_Num": 7,
           "Feiertag": 0,
           "Ferientag": 1,
@@ -9333,9 +7991,7 @@
       ],
       "26": [
         {
-          "Jahr": 2024,
           "Monat": 8,
-          "Tag": 26,
           "Wochentag_Num": 1,
           "Feiertag": 0,
           "Ferientag": 1,
@@ -9349,9 +8005,7 @@
       ],
       "28": [
         {
-          "Jahr": 2024,
           "Monat": 8,
-          "Tag": 28,
           "Wochentag_Num": 3,
           "Feiertag": 0,
           "Ferientag": 1,
@@ -9365,9 +8019,7 @@
       ],
       "30": [
         {
-          "Jahr": 2024,
           "Monat": 8,
-          "Tag": 30,
           "Wochentag_Num": 5,
           "Feiertag": 0,
           "Ferientag": 1,
@@ -9381,9 +8033,7 @@
       ],
       "31": [
         {
-          "Jahr": 2024,
           "Monat": 8,
-          "Tag": 31,
           "Wochentag_Num": 6,
           "Feiertag": 0,
           "Ferientag": 0,

@@ -4,8 +4,17 @@
 		<title>KI Website PST 2024</title>
 	</head>
 	<body>
+		<script src="https://cdn.jsdelivr.net/npm/onnxruntime-web/dist/ort.min.js"></script>
+		
+
+
+		<select id="s_year"></select>
+		<select id="s_month"></select>
+		<select id="s_day"></select>
+		<button id="button">Load</button>
+
 		<form id="form">
-			<script src="https://cdn.jsdelivr.net/npm/onnxruntime-web/dist/ort.min.js"></script>
+			
 			<label>Monat</label>
 			<input type="number" min=1 max=12 value=1 id="in_monat">
 	
@@ -35,55 +44,186 @@
 			<input type="button" id="submit" label="Submit">
 
 		</form>
-			<p id="text"></p>
+
+		<p id="text"></p>
 
 		<script>
 		
+
+
+		
+
+
+
+		async function getIndex(jahr,monat){
+
+			let jpath = "./json/"+(jahr?jahr+"/":"")+(monat?monat+"/":"")+"index.json";
+
+			let x = await fetch(jpath);
+
+			let y = await x.json();
+			return y;
+
+
+
+		}
+
+		async function updateSel(jahr,monat,element){
+			
+			element.innerHTML = '';
+			(await getIndex(jahr,monat)).forEach(function(x){
+				
+				let y = document.createElement('option');
+				y.text = x;
+				element.add(y);
+				return;
+
+			});
+
+		}
+
+		async function getData(jahr,monat,tag){
+
+			jpath = "./json/"+jahr+"/"+monat+"/"+tag+"/data.json";
+
+			x = await fetch(jpath);
+			y = await x.json();
+			return y
+			
+
+
+
+		}
+
+
+		async function setForm(year,month,day,inputs){
+			
+
+
+			jData = await getData(year.value,month.value,day.value);
+		
+			Object.keys(jData).forEach(function(x){
+				
+				switch(x){
+					case "Feiertag":
+					case "Ferientag":
+						inputs[x].checked = jData[x] == 1;
+						break;
+					case "UnfGesamt":
+						break;
+					default:
+						inputs[x].value = jData[x];
+
+				}
+
+
+
+
+			});
+		}
+			
+
+
+
+
+
+
+
+
+
+
+
+		
+		
+
+
+
 		async function main(){
 		const session = await ort.InferenceSession.create('./model2.onnx');
 		
+
+
+
+		let year = document.getElementById('s_year');
+		let month = document.getElementById('s_month');
+		let day = document.getElementById('s_day');
+
+		inputCollection = document.getElementById('form').elements;
+
+		const inputs = {
+			Monat: inputCollection[0],
+			Wochentag_Num: inputCollection[1],
+			Feiertag: inputCollection[2],
+			Ferientag: inputCollection[3],				
+			SHK_TAG: inputCollection[4],
+			VPM: inputCollection[5],
+			PM: inputCollection[6],
+			UPM: inputCollection[7],
+			TXK: inputCollection[8]
+		}; 
+
+
+
+		await updateSel(null,null,year);
+		await updateSel(year.value,null,month);
+		await updateSel(year.value,month.value,day);
+		year.onchange =  function(){
+			updateSel(year.value,null,month)
+			.then(function(){
+			updateSel(year.value,month.value,day);
+			});
+		};
+
+		month.onchange = function(){
+			updateSel(year.value,month.value,day);
+		};
+
+		let load = document.getElementById('button');
+		
+		load.onclick = function(){setForm(year,month,day,inputs)};
+
+
 
 		let button = document.getElementById('submit');
 		button.onclick = async function () {
 		
 		
 		
-		inputCollection = Array.prototype.map.call(document.getElementById('form').elements, (element) => {return (element.type === 'checkbox') ? element.checked : element.value});
-
-		inputData = {
-  			 Monat: new ort.Tensor('int64', BigInt64Array.from([BigInt(inputCollection[0])]), [1, 1]),
-			 Wochentag_Num: new ort.Tensor('int64', BigInt64Array.from([BigInt(inputCollection[1])]), [1, 1]),
-  			 Feiertag: new ort.Tensor('int64', BigInt64Array.from([inputCollection[2] ? 1n:0n]), [1, 1]),
-			 Ferientag: new ort.Tensor('int64', BigInt64Array.from([inputCollection[3] ? 1n:0n]), [1, 1]),
-			 SHK_TAG: new ort.Tensor('float64', Float64Array.from([parseFloat(inputCollection[4])]), [1, 1]),
-			 VPM: new ort.Tensor('float64', Float64Array.from([parseFloat(inputCollection[5])]), [1, 1]),
-			 PM: new ort.Tensor('float64', Float64Array.from([parseFloat(inputCollection[6])]), [1, 1]),
-			 UPM: new ort.Tensor('float64', Float64Array.from([parseFloat(inputCollection[7])]), [1, 1]),
-			 TXK: new ort.Tensor('float64', Float64Array.from([parseFloat(inputCollection[8])]), [1, 1]),
-			 };
+		const inputData = {};
+		
+		Object.keys(inputs).forEach(function(x){
+			
+			var y;
+			switch(x){
+				case "Monat":
+				case "Wochentag_Num":
+					inputData[x] = new ort.Tensor('int64',BigInt64Array.from([BigInt(inputs[x].value)]),[1,1]);
+					break;
+				case "Feiertag":
+				case "Ferientag":
+					inputData[x] = new ort.Tensor('int64',BigInt64Array.from([inputs[x].checked ? 1n:0n]),[1,1]);
+					break;
+				default:
+					inputData[x] = new ort.Tensor('float64',Float64Array.from([parseFloat(inputs[x].value)]),[1,1]);
+					
 		
 
-		console.log(inputCollection[0])
-		console.log(inputCollection[2])
+						
+			}
+		
+		});
 
-		console.log(inputData.Monat)
-		console.log(inputData.Feiertag)
+
+
+		
 		let results = await session.run(inputData);
 		
 
-		console.log(results);
-		console.log(Object.keys(results));
-		console.log(results.variable);
-		
-		console.log(Object.keys(results.variable));
-		console.log(results.variable.cpuData);
-				
 
-
-		document.getElementById('text').innerText = results.variable.cpuData[0];
+		document.getElementById('text').innerText = await results.variable.cpuData[0];
 		};
 
-		
+		setForm(year,month,day,inputs);
 
 		}
 		
