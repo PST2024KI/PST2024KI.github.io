@@ -2,17 +2,23 @@
 <html>
 	<head>
 		<title>KI Website PST 2024</title>
+
+		<style>
+			table,td{
+				border: 1px solid black;
+				text-align: center;
+			}
+			td.invalid{
+				background: red;
+			}
+			td.outranged{
+				background: gray;
+			}
+		</style>
 	</head>
 	<body>
 		<script src="https://cdn.jsdelivr.net/npm/onnxruntime-web/dist/ort.min.js"></script>
-		
-
-
-		<select id="s_year"></select>
-		<select id="s_month"></select>
-		<select id="s_day"></select>
-		<button id="button">Load</button>
-
+	
 		<form id="form">
 			
 			<label>Monat</label>
@@ -48,13 +54,27 @@
 		<p id="text"></p>
 		<p id="text2"></p>
 
-
+		<script src="./calendar.js"></script>
 		<script>
 		
 
 
 		var UnfGesamt;
 
+		let form = document.getElementById('form');
+		let inputCollection = form.elements;
+		let realData = true;
+		const inputs = {
+			Monat: inputCollection[0],
+			Wochentag_Num: inputCollection[1],
+			Feiertag: inputCollection[2],
+			Ferientag: inputCollection[3],				
+			SHK_TAG: inputCollection[4],
+			VPM: inputCollection[5],
+			PM: inputCollection[6],
+			UPM: inputCollection[7],
+			TXK: inputCollection[8]
+		};
 
 
 		async function getIndex(jahr,monat){
@@ -70,19 +90,6 @@
 
 		}
 
-		async function updateSel(jahr,monat,element){
-			
-			element.innerHTML = '';
-			(await getIndex(jahr,monat)).forEach(function(x){
-				
-				let y = document.createElement('option');
-				y.text = x;
-				element.add(y);
-				return;
-
-			});
-
-		}
 
 		async function getData(jahr,monat,tag){
 
@@ -100,7 +107,7 @@
 
 		async function setForm(year,month,day,inputs){
 			
-			jData = await getData(year.value,month.value,day.value);
+			jData = await getData(year,month,day);
 		
 			Object.keys(jData).forEach(function(x){
 				
@@ -121,54 +128,16 @@
 
 
 			});
+
+			realData = true;
 		}
 
 		async function main(){
 		const session = await ort.InferenceSession.create('./model2.onnx');
+
 		
-		
-		let realData = true;
 
-		let year = document.getElementById('s_year');
-		let month = document.getElementById('s_month');
-		let day = document.getElementById('s_day');
-
-		let form = document.getElementById('form');
-
-		let inputCollection = form.elements;
-
-		const inputs = {
-			Monat: inputCollection[0],
-			Wochentag_Num: inputCollection[1],
-			Feiertag: inputCollection[2],
-			Ferientag: inputCollection[3],				
-			SHK_TAG: inputCollection[4],
-			VPM: inputCollection[5],
-			PM: inputCollection[6],
-			UPM: inputCollection[7],
-			TXK: inputCollection[8]
-		}; 
-
-
-
-		await updateSel(null,null,year);
-		await updateSel(year.value,null,month);
-		await updateSel(year.value,month.value,day);
-		year.onchange =  function(){
-			updateSel(year.value,null,month)
-			.then(function(){
-			updateSel(year.value,month.value,day);
-			});
-		};
-
-		month.onchange = function(){
-			updateSel(year.value,month.value,day);
-		};
-
-		let load = document.getElementById('button');
-		
-		load.onclick = function(){setForm(year,month,day,inputs);realData = true};
-
+		 makeTable(2023,10);
 
 
 		let button = document.getElementById('submit');
@@ -203,7 +172,6 @@
 			
 		};
 
-		setForm(year,month,day,inputs);
 			
 		form.onchange = function(){
 			realData = false;
