@@ -152,7 +152,7 @@
 
 		
 
-		makeTable(2023,10);
+		table = await makeTable(2023,10);
 
 
 		let button = document.getElementById('submit');
@@ -199,6 +199,7 @@
 			
 		form.onchange = function(){
 			realData = false;
+			table.clickCell = null;
 		};
 		
 

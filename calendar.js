@@ -41,8 +41,7 @@ async function updateTable(year,month,cells,table){
 				if(data.includes(day.toString())){
 					x.onclick = function(){
 						setForm(year,month,day,inputs);
-						
-						giveFeedback(x); 
+						table.clickCell = x;
 					};
 					x.className = "valid"
 				}else{
@@ -67,16 +66,6 @@ async function updateTable(year,month,cells,table){
 
 }
 
-function giveFeedback(cell) {
-    // Puls-Animation hinzufügen
-    cell.classList.add("clicked");
-
-    // Puls-Animation nach 1 Sekunde entfernen
-    setTimeout(() => {
-        cell.classList.remove("clicked");
-    }, 1000);
-}
-
 
 async function makeTable(year,month) {
 
@@ -86,6 +75,8 @@ async function makeTable(year,month) {
 	let body = table.createTBody();
 	Object.defineProperty(table,"month",{value: month,writable: true});
 	Object.defineProperty(table,"year",{value: year,writable: true});
+	Object.defineProperty(table,"clickedCell",{value:null,writable:true});
+	Object.defineProperty(table,"clickCell",{set:function(cell){if(this.clickedCell) this.clickedCell.classList.remove("clicked");this.clickedCell=cell;if(this.clickedCell) this.clickedCell.classList.add("clicked");console.log("moin");}});
 
 
 	th = table.createTHead();
@@ -134,9 +125,8 @@ async function makeTable(year,month) {
 
 
 	document.getElementById("tableDiv").appendChild(table);
-	//document.body.insertBefore(table,document.body.childNodes[0]);
 
-
+	return table;
 
 
 

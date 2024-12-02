@@ -46,41 +46,44 @@ body {
         }
 
         .clicked {
-            -webkit-animation-name: pulse;
-            animation-name: pulse;
-            -webkit-animation-duration: 1s;
-            animation-duration: 1s;
-            -webkit-animation-fill-mode: both;
-            animation-fill-mode: both;
-            }
-            @-webkit-keyframes pulse {
-            0% {
-            -webkit-transform: scale3d(1, 1, 1);
-            transform: scale3d(1, 1, 1);
-            }
-            50% {
-            -webkit-transform: scale3d(1.15, 1.15, 1.15);
-            transform: scale3d(1.15, 1.15, 1.15);
-            }
-            100% {
-            -webkit-transform: scale3d(1, 1, 1);
-            transform: scale3d(1, 1, 1);
-            }
-            }
-            @keyframes pulse {
-            0% {
-            -webkit-transform: scale3d(1, 1, 1);
-            transform: scale3d(1, 1, 1);
-            }
-            50% {
-            -webkit-transform: scale3d(1.15, 1.15, 1.15);
-            transform: scale3d(1.15, 1.15, 1.15);
-            }
-            100% {
-            -webkit-transform: scale3d(1, 1, 1);
-            transform: scale3d(1, 1, 1);
-            }
-            } 
+		-webkit-animation-name: pulse;
+		animation-name: pulse;
+		-webkit-animation-duration: 1s;
+		animation-duration: 1s;
+		-webkit-animation-fill-mode: both;
+		animation-fill-mode: both;
+
+		background-color: green;
+
+		}
+		@-webkit-keyframes pulse {
+		0% {
+		-webkit-transform: scale3d(1, 1, 1);
+		transform: scale3d(1, 1, 1);
+		}
+		50% {
+		-webkit-transform: scale3d(1.15, 1.15, 1.15);
+		transform: scale3d(1.15, 1.15, 1.15);
+		}
+		100% {
+		-webkit-transform: scale3d(1, 1, 1);
+		transform: scale3d(1, 1, 1);
+		}
+		}
+		@keyframes pulse {
+		0% {
+		-webkit-transform: scale3d(1, 1, 1);
+		transform: scale3d(1, 1, 1);
+		}
+		50% {
+		-webkit-transform: scale3d(1.15, 1.15, 1.15);
+		transform: scale3d(1.15, 1.15, 1.15);
+		}
+		100% {
+		-webkit-transform: scale3d(1, 1, 1);
+		transform: scale3d(1, 1, 1);
+		}
+		} 
 
 
 .calcDiv {
