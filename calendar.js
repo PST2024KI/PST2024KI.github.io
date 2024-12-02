@@ -60,7 +60,6 @@ async function updateTable(year,month,cells,table){
 	table.tHead.childNodes[1].childNodes[2].innerHTML = months[month-1];
 	table.tHead.childNodes[0].childNodes[1].innerHTML = year;
 	table.month = month;
-	console.log(year);
 	table.year = year;
 
 
@@ -76,7 +75,7 @@ async function makeTable(year,month) {
 	Object.defineProperty(table,"month",{value: month,writable: true});
 	Object.defineProperty(table,"year",{value: year,writable: true});
 	Object.defineProperty(table,"clickedCell",{value:null,writable:true});
-	Object.defineProperty(table,"clickCell",{set:function(cell){if(this.clickedCell) this.clickedCell.classList.remove("clicked");this.clickedCell=cell;if(this.clickedCell) this.clickedCell.classList.add("clicked");console.log("moin");}});
+	Object.defineProperty(table,"clickCell",{set:function(cell){if(this.clickedCell) this.clickedCell.classList.remove("clicked");this.clickedCell=cell;if(this.clickedCell) this.clickedCell.classList.add("clicked");}});
 
 
 	th = table.createTHead();
@@ -112,7 +111,7 @@ async function makeTable(year,month) {
 	mright.onclick = function(){updateTable(table.year,table.month+1,cells,table);};
 
 	jleft.onclick = function(){updateTable(table.year-1,table.month,cells,table);};
-	jright.onclick = function(){updateTable(table.year+1,table.month,cells,table);console.log("here");};
+	jright.onclick = function(){updateTable(table.year+1,table.month,cells,table);};
 
 
 	for(let i=0;i<6;i++){
