@@ -41,6 +41,8 @@ async function updateTable(year,month,cells,table){
 				if(data.includes(day.toString())){
 					x.onclick = function(){
 						setForm(year,month,day,inputs);
+						
+						giveFeedback(x); 
 					};
 					x.className = "valid"
 				}else{
@@ -65,6 +67,15 @@ async function updateTable(year,month,cells,table){
 
 }
 
+function giveFeedback(cell) {
+    // Puls-Animation hinzufügen
+    cell.classList.add("clicked");
+
+    // Puls-Animation nach 1 Sekunde entfernen
+    setTimeout(() => {
+        cell.classList.remove("clicked");
+    }, 1000);
+}
 
 
 async function makeTable(year,month) {
@@ -122,8 +133,8 @@ async function makeTable(year,month) {
 	updateTable(year,month,cells,table);
 
 
-
-	document.body.insertBefore(table,document.body.childNodes[0]);
+	document.getElementById("tableDiv").appendChild(table);
+	//document.body.insertBefore(table,document.body.childNodes[0]);
 
 
 
