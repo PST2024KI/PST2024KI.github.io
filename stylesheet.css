@@ -1,0 +1,191 @@
+body {
+    background-color: rgb(70, 70, 70);
+}
+
+#tableDiv {
+    max-width: 400px;
+    max-height: 400px;
+    overflow: auto;
+    border-radius: 8px;
+    background-color: #fff;
+    padding: 20px;
+    box-sizing: border-box;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border: 1px solid #ccc;
+    margin: 20px auto;
+  }
+
+    table {
+        width: 100%;
+        margin-top: 20px;
+        border-collapse: collapse; 
+        background-color: #f9f9f9; 
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+    }
+
+        td {
+            padding: 6px 10px;
+            border: 1px solid #ccc;
+            text-align: center;
+            font-family: Arial, sans-serif;
+            color: #333;
+        }
+
+        td.invalid {
+            background-color: #ffcccc;
+            color: #ff0000;
+        }
+
+        td.outranged {
+            background-color: #e6e6e6;
+            color: #666; 
+        }
+
+        td:hover {
+            background-color: #e0f7ff;
+        }
+
+        .clicked {
+            -webkit-animation-name: pulse;
+            animation-name: pulse;
+            -webkit-animation-duration: 1s;
+            animation-duration: 1s;
+            -webkit-animation-fill-mode: both;
+            animation-fill-mode: both;
+            }
+            @-webkit-keyframes pulse {
+            0% {
+            -webkit-transform: scale3d(1, 1, 1);
+            transform: scale3d(1, 1, 1);
+            }
+            50% {
+            -webkit-transform: scale3d(1.15, 1.15, 1.15);
+            transform: scale3d(1.15, 1.15, 1.15);
+            }
+            100% {
+            -webkit-transform: scale3d(1, 1, 1);
+            transform: scale3d(1, 1, 1);
+            }
+            }
+            @keyframes pulse {
+            0% {
+            -webkit-transform: scale3d(1, 1, 1);
+            transform: scale3d(1, 1, 1);
+            }
+            50% {
+            -webkit-transform: scale3d(1.15, 1.15, 1.15);
+            transform: scale3d(1.15, 1.15, 1.15);
+            }
+            100% {
+            -webkit-transform: scale3d(1, 1, 1);
+            transform: scale3d(1, 1, 1);
+            }
+            } 
+
+
+.calcDiv {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    width: 100%;
+}
+
+.toggleButton {
+    border: 2px solid #2d662f;
+    border-radius: 8px;
+    padding: 10px;
+    background-color: #4CAF50;
+    color: white;
+
+    cursor: pointer;
+    font-size: 16px;
+}
+
+    .toggleButton:hover {
+        background-color: #45a049;  
+    }
+
+#submit {
+    padding: 10px 15px;
+    margin: 20px auto;
+    border: 2px solid #0050a7;
+    border-radius: 8px;
+    background-color: #007bff;
+    color: white;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+    #submit:hover {
+        background-color: #0056b3;
+    }
+
+.inputFormDiv {
+    max-width: 400px;
+    width: 400px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    font-family: Arial, sans-serif;
+    display: none;
+}
+
+    .inputFormDiv form {
+        display: flex;
+        flex-direction: column;
+        gap: 15px;
+    }
+
+    .inputFormDiv label {
+        font-weight: bold;
+        margin-bottom: 5px;
+    }
+
+    .inputFormDiv input[type="number"],
+    .inputFormDiv input[type="text"],
+    .inputFormDiv input[type="checkbox"] {
+        padding: 8px;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        font-size: 14px;
+    }
+
+    .inputFormDiv input[type="checkbox"] {
+        width: auto;
+        margin-right: 10px;
+    }
+
+
+.results {
+    width: 400px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 2px solid #007bff;
+    border-radius: 8px;
+    background-color: #f1f8ff;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    font-family: Arial, sans-serif;
+  }
+
+.results p {
+    font-size: 18px;
+    margin: 10px 0;
+    color: #333;
+}
+
+.results #text {
+    font-weight: bold;
+    font-size: 20px;
+    color: #007bff;
+}
+
+.results #text2 {
+    font-style: italic;
+    font-size: 16px;
+    color: #555;
+}
