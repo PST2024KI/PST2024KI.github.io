@@ -42,7 +42,7 @@ body {
         }
 
         td:hover {
-            background-color: #e0f7ff;
+            border: 3px solid black;
         }
 
         .clicked {
