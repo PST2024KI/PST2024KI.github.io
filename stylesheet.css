@@ -26,9 +26,11 @@ body {
 table {
     width: 100%;
     margin-top: 40px;
-    border-collapse: collapse;
+    border: 2px solid #ccc;
+    border-collapse: seperate;
     background-color: #f9f9f9;
     box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+    border-spacing: 0px 0px;
 }
 
 td {
@@ -38,6 +40,7 @@ td {
     font-family: Arial, sans-serif;
     font-size: 28px;
     color: #333;
+    
 }
 
 td.invalid {
@@ -51,7 +54,10 @@ td.outranged {
 }
 
 td:hover {
+    
     border: 6px solid black;
+    padding: 8px 16px;
+    
 }
 
 .clicked {
