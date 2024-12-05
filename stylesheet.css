@@ -37,10 +37,14 @@ table {
     width: 100%;
     margin-top: 40px;
     border: 2px solid #ccc;
-    border-collapse: seperate;
+    border-collapse: separate;
     background-color: #f9f9f9;
     box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
     border-spacing: 0px 0px;
+}
+
+.tdays td {
+    width: calc(100%/7);
 }
 
 td {

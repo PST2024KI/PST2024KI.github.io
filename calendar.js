@@ -80,6 +80,7 @@ async function makeTable(year,month) {
 
 	th = table.createTHead();
 	trow = th.insertRow(0);
+	trow.className = "tdays";
 	days.forEach(function(x,y){
 		tcell = trow.insertCell(y);
 		tcell.innerHTML = x;
